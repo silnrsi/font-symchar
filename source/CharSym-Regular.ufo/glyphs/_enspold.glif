@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_enspold" format="2">
+  <advance width="1024"/>
+  <outline>
+    <component base="_spaceside"/>
+    <component base="_spaceside" xOffset="832"/>
+    <contour>
+      <point x="48" y="-192" type="line"/>
+      <point x="976" y="-192" type="line"/>
+      <point x="976" y="-96" type="line"/>
+      <point x="48" y="-96" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="264" type="line"/>
+      <point x="452" y="264" type="line"/>
+      <point x="452" y="328" type="line"/>
+      <point x="256" y="328" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="264" type="line"/>
+      <point x="296" y="264" type="line"/>
+      <point x="296" y="704" type="line"/>
+      <point x="232" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="456" type="line"/>
+      <point x="442" y="456" type="line"/>
+      <point x="442" y="520" type="line"/>
+      <point x="256" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="522" y="264" type="line"/>
+      <point x="586" y="264" type="line"/>
+      <point x="586" y="704" type="line"/>
+      <point x="522" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="640" type="line"/>
+      <point x="452" y="640" type="line"/>
+      <point x="452" y="704" type="line"/>
+      <point x="256" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="264" type="line"/>
+      <point x="790" y="264" type="line"/>
+      <point x="590" y="704" type="line"/>
+      <point x="524" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="728" y="264" type="line"/>
+      <point x="792" y="264" type="line"/>
+      <point x="792" y="704" type="line"/>
+      <point x="728" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPPPPPP</string>
+    </dict>
+  </lib>
+</glyph>

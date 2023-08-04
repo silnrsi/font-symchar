@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_zwjold" format="2">
+  <advance width="784"/>
+  <outline>
+    <component base="_zwpart" xOffset="296"/>
+    <component base="_zwpart" xOffset="296" yOffset="390"/>
+    <component base="_zwpart" xOffset="296" yOffset="1560"/>
+    <component base="_zwpart" xOffset="296" yOffset="1950"/>
+    <contour>
+      <point x="736" y="491" type="line"/>
+      <point x="736" y="1009" type="line"/>
+      <point x="404" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="491" type="line"/>
+      <point x="380" y="750" type="line"/>
+      <point x="48" y="1009" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="430" type="line"/>
+      <point x="440" y="430" type="line"/>
+      <point x="440" y="654" type="line"/>
+      <point x="344" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="852" type="line"/>
+      <point x="440" y="852" type="line"/>
+      <point x="440" y="1076" type="line"/>
+      <point x="344" y="1076" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPPP</string>
+    </dict>
+  </lib>
+</glyph>

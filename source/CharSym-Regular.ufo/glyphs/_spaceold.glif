@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_spaceold" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="_spacebottom"/>
+    <component base="_spaceside"/>
+    <component base="_spaceside" xOffset="448"/>
+    <component base="_dot"/>
+  </outline>
+</glyph>

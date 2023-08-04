@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_emspold" format="2">
+  <advance width="2048"/>
+  <outline>
+    <component base="_spaceside"/>
+    <component base="_spaceside" xOffset="1856"/>
+    <contour>
+      <point x="48" y="-192" type="line"/>
+      <point x="2000" y="-192" type="line"/>
+      <point x="2000" y="-96" type="line"/>
+      <point x="48" y="-96" type="line"/>
+    </contour>
+    <contour>
+      <point x="993" y="264" type="line"/>
+      <point x="1057" y="264" type="line"/>
+      <point x="1057" y="704" type="line"/>
+      <point x="993" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="1137" y="354" type="line"/>
+      <point x="1201" y="354" type="line"/>
+      <point x="1065" y="704" type="line"/>
+      <point x="1007" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="1137" y="354" type="line"/>
+      <point x="1201" y="354" type="line"/>
+      <point x="1331" y="704" type="line"/>
+      <point x="1273" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="1281" y="264" type="line"/>
+      <point x="1345" y="264" type="line"/>
+      <point x="1345" y="704" type="line"/>
+      <point x="1281" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="727" y="264" type="line"/>
+      <point x="923" y="264" type="line"/>
+      <point x="923" y="328" type="line"/>
+      <point x="727" y="328" type="line"/>
+    </contour>
+    <contour>
+      <point x="703" y="264" type="line"/>
+      <point x="767" y="264" type="line"/>
+      <point x="767" y="704" type="line"/>
+      <point x="703" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="727" y="456" type="line"/>
+      <point x="913" y="456" type="line"/>
+      <point x="913" y="520" type="line"/>
+      <point x="727" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="727" y="640" type="line"/>
+      <point x="923" y="640" type="line"/>
+      <point x="923" y="704" type="line"/>
+      <point x="727" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPPPPPPP</string>
+    </dict>
+  </lib>
+</glyph>

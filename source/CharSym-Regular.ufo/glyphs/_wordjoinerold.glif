@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_wordjoinerold" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="_zwpart" xOffset="224"/>
+    <component base="_zwpart" xOffset="224" yOffset="390"/>
+    <component base="_zwpart" xOffset="224" yOffset="1560"/>
+    <component base="_zwpart" xOffset="224" yOffset="1950"/>
+    <contour>
+      <point x="404" y="544" type="line"/>
+      <point x="463" y="544" type="line"/>
+      <point x="352" y="962" type="line"/>
+      <point x="288" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="390" type="line"/>
+      <point x="592" y="390" type="line"/>
+      <point x="592" y="486" type="line"/>
+      <point x="48" y="486" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="544" type="line"/>
+      <point x="228" y="544" type="line"/>
+      <point x="144" y="962" type="line"/>
+      <point x="79" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="544" type="line"/>
+      <point x="236" y="544" type="line"/>
+      <point x="352" y="962" type="line"/>
+      <point x="288" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="544" type="line"/>
+      <point x="477" y="544" type="line"/>
+      <point x="561" y="962" type="line"/>
+      <point x="496" y="962" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="1020" type="line"/>
+      <point x="592" y="1020" type="line"/>
+      <point x="592" y="1116" type="line"/>
+      <point x="48" y="1116" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPPPPP</string>
+    </dict>
+  </lib>
+</glyph>

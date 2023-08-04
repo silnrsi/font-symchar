@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_lrmarkold" format="2">
+  <advance width="468"/>
+  <outline>
+    <component base="_zwpart" xOffset="48"/>
+    <component base="_zwpart" xOffset="48" yOffset="390"/>
+    <component base="_zwpart" xOffset="48" yOffset="780"/>
+    <component base="_zwpart" xOffset="48" yOffset="1170"/>
+    <contour>
+      <point x="96" y="1274" type="line"/>
+      <point x="428" y="1533" type="line"/>
+      <point x="96" y="1792" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCP</string>
+    </dict>
+  </lib>
+</glyph>

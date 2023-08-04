@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wordjoiner" format="2">
+  <unicode hex="E078"/>
+  <outline>
+    <contour>
+      <point x="-272" y="-470" type="line"/>
+      <point x="272" y="-470" type="line"/>
+      <point x="272" y="-374" type="line"/>
+      <point x="-272" y="-374" type="line"/>
+    </contour>
+    <contour>
+      <point x="-272" y="1760" type="line"/>
+      <point x="272" y="1760" type="line"/>
+      <point x="272" y="1856" type="line"/>
+      <point x="-272" y="1856" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="-278" type="line"/>
+      <point x="48" y="-278" type="line"/>
+      <point x="48" y="1664" type="line"/>
+      <point x="-48" y="1664" type="line"/>
+    </contour>
+    <contour>
+      <point x="-272" y="1568" type="line"/>
+      <point x="272" y="1568" type="line"/>
+      <point x="272" y="1664" type="line"/>
+      <point x="-272" y="1664" type="line"/>
+    </contour>
+    <contour>
+      <point x="-272" y="-278" type="line"/>
+      <point x="272" y="-278" type="line"/>
+      <point x="272" y="-182" type="line"/>
+      <point x="-272" y="-182" type="line"/>
+    </contour>
+  </outline>
+</glyph>

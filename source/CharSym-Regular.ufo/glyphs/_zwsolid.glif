@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_zwsolid" format="2">
+  <outline>
+    <contour>
+      <point x="-48" y="-470" type="line"/>
+      <point x="48" y="-470" type="line"/>
+      <point x="48" y="1856" type="line"/>
+      <point x="-48" y="1856" type="line"/>
+    </contour>
+  </outline>
+</glyph>

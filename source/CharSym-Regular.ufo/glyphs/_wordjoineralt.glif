@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_wordjoineralt" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="_zwpart" xOffset="224"/>
+    <component base="_zwpart" xOffset="224" yOffset="390"/>
+    <component base="_zwpart" xOffset="224" yOffset="780"/>
+    <component base="_zwpart" xOffset="224" yOffset="1560"/>
+    <component base="_zwpart" xOffset="224" yOffset="1950"/>
+    <component base="_zwpart" xOffset="224" yOffset="1170"/>
+    <contour>
+      <point x="48" y="820" type="line"/>
+      <point x="592" y="820" type="line"/>
+      <point x="592" y="916" type="line"/>
+      <point x="48" y="916" type="line"/>
+    </contour>
+    <contour>
+      <point x="48" y="590" type="line"/>
+      <point x="592" y="590" type="line"/>
+      <point x="592" y="686" type="line"/>
+      <point x="48" y="686" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCCPP</string>
+    </dict>
+  </lib>
+</glyph>
