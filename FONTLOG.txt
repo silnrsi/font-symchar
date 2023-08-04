@@ -2,8 +2,7 @@
 FONTLOG for the CharSym fonts
 
 This file provides detailed information on the CharSym Font Software.
-This information should be distributed along with the Bloom Show Inv fonts
-and any derivative works.
+This information should be distributed along with the CharSym fonts (derived from the Bloom Show Inv fonts) and any derivative works.
 
 Basic Font Information
 
@@ -13,7 +12,8 @@ that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 f
 ChangeLog
 
 4 Aug 2023 (SIL font development team) CharSym version 3.000
-- 
+- new name CharSym (Character Symbols)
+- extra glyphs as requested by application developers
 
 11 July 2023 (SIL font development team) Bloom Show Inv version 2.000
 - Revised version with more glyphs and all encoded in the PUA
