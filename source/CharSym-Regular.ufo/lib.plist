@@ -2,10 +2,31 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+  <array>
+    <dict>
+      <key>class</key>
+      <string>KernFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>ContextualMarkFeatureWriter</string>
+      <key>module</key>
+      <string>glyphsLib.featureWriters.markFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>GdefFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>CursFeatureWriter</string>
+    </dict>
+  </array>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3207</string>
+  <string>3208</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/_ringlarge</string>
@@ -14,10 +35,8 @@
     <string>/_sizedesc</string>
     <string>/zwnj</string>
     <string>/_sizeuc/space/_sizeuc/nbsp/_sizeuc/nnbsp/_sizeuc/thinsp/_sizeuc/hairsp/_sizeuc/ensp/_sizeuc/emsp/_sizeuc/_sizeasc/_sizedesc</string>
-    <string>/_arrowup</string>
-    <string>/_dot/_dotsmall/hairsp</string>
-    <string>/_sizeuc</string>
-    <string>/_sizeuc/nbsp/_sizeuc/nnbsp/_sizeuc</string>
+    <string>/_sizeuc/_dotsmall/nbsp/_sizeuc/_dot/nnbsp/_sizeuc</string>
+    <string>/_sizeuc/enquad/_sizeuc/emquad/_sizeuc/ensp/_sizeuc/emsp/_sizeuc/threepmsp/_sizeuc/fourpmsp/_sizeuc/sixpmsp/_sizeuc/figuresp/_sizeuc/punctsp/_sizeuc/thinsp/_sizeuc</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

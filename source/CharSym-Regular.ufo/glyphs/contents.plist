@@ -14,22 +14,34 @@
   <string>_dot.glif</string>
   <key>_dotsmall</key>
   <string>_dotsmall.glif</string>
+  <key>_emquadold</key>
+  <string>_emquadold.glif</string>
   <key>_emspold</key>
   <string>_emspold.glif</string>
+  <key>_enquadold</key>
+  <string>_enquadold.glif</string>
   <key>_enspold</key>
   <string>_enspold.glif</string>
+  <key>_figurespold</key>
+  <string>_figurespold.glif</string>
+  <key>_fourpmspold</key>
+  <string>_fourpmspold.glif</string>
   <key>_lrmarkold</key>
   <string>_lrmarkold.glif</string>
   <key>_nbspold</key>
   <string>_nbspold.glif</string>
   <key>_nnbspold</key>
   <string>_nnbspold.glif</string>
+  <key>_punctspold</key>
+  <string>_punctspold.glif</string>
   <key>_ring</key>
   <string>_ring.glif</string>
   <key>_ringlarge</key>
   <string>_ringlarge.glif</string>
   <key>_rlmarkold</key>
   <string>_rlmarkold.glif</string>
+  <key>_sixpmspold</key>
+  <string>_sixpmspold.glif</string>
   <key>_sizeasc</key>
   <string>_sizeasc.glif</string>
   <key>_sizedesc</key>
@@ -44,6 +56,8 @@
   <string>_spaceold.glif</string>
   <key>_spaceside</key>
   <string>_spaceside.glif</string>
+  <key>_threepmspold</key>
+  <string>_threepmspold.glif</string>
   <key>_triangleleft</key>
   <string>_triangleleft.glif</string>
   <key>_triangleright</key>

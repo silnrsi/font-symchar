@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_figurespold" format="2">
+  <advance width="800"/>
+  <outline>
+    <component base="_spaceside"/>
+    <component base="_spaceside" xOffset="608"/>
+    <contour>
+      <point x="48" y="-192" type="line"/>
+      <point x="752" y="-192" type="line"/>
+      <point x="752" y="-96" type="line"/>
+      <point x="48" y="-96" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="704" type="line"/>
+      <point x="368" y="704" type="line"/>
+      <point x="368" y="264" type="line"/>
+      <point x="432" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="328" type="line"/>
+      <point x="248" y="328" type="line"/>
+      <point x="248" y="264" type="line"/>
+      <point x="552" y="264" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="704" type="line"/>
+      <point x="356" y="704" type="line"/>
+      <point x="240" y="574" type="line"/>
+      <point x="289" y="531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+    </dict>
+  </lib>
+</glyph>
