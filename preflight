@@ -1,9 +1,7 @@
 #!/bin/sh
 
-#!/bin/sh
-
 echo "-----Normalizing and updating production names"
 psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/CharSym-Regular.ufo
 
 echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder --header sort_final -i source/glyph_data.csv source/CharSym-Regular.ufo
+psfsetglyphorder --header sort_design -i source/glyph_data.csv source/CharSym-Regular.ufo

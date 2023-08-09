@@ -34,7 +34,7 @@
     <string>/refbox</string>
     <string>/refdesc</string>
     <string>/zwnj</string>
-    <string>/refuc/space/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
+    <string>/refuc/spacevisible/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
     <string>/refuc/_part.dotsmall/nbsp/refuc/_part.dot/nnbsp/refuc</string>
     <string>/refuc/enquad/refuc/emquad/refuc/ensp/refuc/emsp/refuc/threepmsp/refuc/fourpmsp/refuc/sixpmsp/refuc/figuresp/refuc/punctsp/refuc/thinsp/refuc</string>
   </array>
@@ -77,7 +77,7 @@
     <string>.notdef</string>
     <string>.null</string>
     <string>nonmarkingreturn</string>
-    <string>space</string>
+    <string>spacevisible</string>
     <string>nbsp</string>
     <string>nnbsp</string>
     <string>enquad</string>
@@ -91,7 +91,6 @@
     <string>punctsp</string>
     <string>thinsp</string>
     <string>hairsp</string>
-    <string>softhyphen</string>
     <string>zwsp</string>
     <string>zwnj</string>
     <string>zwnj_ios</string>
@@ -101,56 +100,422 @@
     <string>cgj</string>
     <string>lrmark</string>
     <string>rlmark</string>
+    <string>softhyphen</string>
     <string>tab</string>
+    <string>refasc</string>
+    <string>refdesc</string>
+    <string>refuc</string>
+    <string>refbox</string>
+    <string>_part.dot</string>
+    <string>_part.dotsmall</string>
+    <string>_part.ring</string>
+    <string>_part.ringlarge</string>
+    <string>_part.spacebottom</string>
+    <string>_part.spaceside</string>
+    <string>_part.zwpart</string>
+    <string>_part.zwsolid</string>
+    <string>_part.triangleleft</string>
+    <string>_part.triangleright</string>
+    <string>_part.arrowdown</string>
+    <string>_part.arrowup</string>
+    <string>space.old</string>
+    <string>nbsp.old</string>
+    <string>nnbsp.old</string>
+    <string>enquad.old</string>
+    <string>emquad.old</string>
+    <string>ensp.old</string>
+    <string>emsp.old</string>
+    <string>threepmsp.old</string>
+    <string>fourpmsp.old</string>
+    <string>sixpmsp.old</string>
+    <string>figuresp.old</string>
+    <string>punctsp.old</string>
+    <string>zwsp.old</string>
+    <string>zwnj.old</string>
+    <string>zwnj.alt</string>
+    <string>zwj.old</string>
+    <string>wordjoiner.old</string>
+    <string>wordjoiner.alt</string>
+    <string>lrmark.old</string>
+    <string>rlmark.old</string>
+    <string>uppercase</string>
+    <string>lowercase</string>
+    <string>caps</string>
+    <string>caps_1</string>
+    <string>alt</string>
+    <string>alt_1</string>
+    <string>ctrl</string>
+    <string>altctrl</string>
+    <string>left_alt</string>
+    <string>right_alt</string>
+    <string>left_ctrl</string>
+    <string>right_ctrl</string>
+    <string>left_alt_ctrl</string>
+    <string>right_alt_ctrl</string>
+    <string>left_alt_ctrl_shift</string>
+    <string>right_alt_ctrl_shift</string>
+    <string>shift_alt</string>
+    <string>shift_ctrl</string>
+    <string>shift_alt_ctrl</string>
+    <string>left_alt_shift</string>
+    <string>right_alt_shift</string>
+    <string>left_ctrl_shift</string>
+    <string>right_ctrl_shift</string>
+    <string>symbols</string>
+    <string>digits</string>
+    <string>currencies</string>
+    <string>shift</string>
+    <string>shifted</string>
+    <string>shift_lock</string>
+    <string>shifted_lock</string>
+    <string>back</string>
+    <string>back_1</string>
+    <string>back_2</string>
+    <string>back_rev</string>
+    <string>enter</string>
+    <string>enter_rev</string>
+    <string>next</string>
+    <string>previous</string>
+    <string>hide</string>
+    <string>download</string>
+    <string>download_1</string>
+    <string>download_2</string>
+    <string>close</string>
+    <string>close_1</string>
+    <string>resize</string>
+    <string>resize_1</string>
+    <string>pin</string>
+    <string>pin_1</string>
+    <string>info</string>
+    <string>info_1</string>
+    <string>info_2</string>
+    <string>help</string>
+    <string>help_1</string>
+    <string>help_2</string>
+    <string>gearwheel</string>
+    <string>globe</string>
+    <string>facebook</string>
+    <string>twitter</string>
+    <string>facebook_1</string>
+    <string>facebook_2</string>
+    <string>twitter_1</string>
+    <string>twitter_2</string>
+    <string>exclam</string>
+    <string>quotedbl</string>
+    <string>numbersign</string>
+    <string>dollar</string>
+    <string>percent</string>
+    <string>ampersand</string>
+    <string>quotesingle</string>
+    <string>parenleft</string>
+    <string>parenright</string>
+    <string>asterisk</string>
+    <string>plus</string>
+    <string>comma</string>
+    <string>hyphen</string>
+    <string>period</string>
+    <string>slash</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>colon</string>
+    <string>semicolon</string>
+    <string>less</string>
+    <string>equal</string>
+    <string>greater</string>
+    <string>question</string>
+    <string>at</string>
+    <string>A</string>
+    <string>B</string>
+    <string>C</string>
+    <string>D</string>
+    <string>E</string>
+    <string>F</string>
+    <string>G</string>
+    <string>H</string>
+    <string>I</string>
+    <string>J</string>
+    <string>K</string>
+    <string>L</string>
+    <string>M</string>
+    <string>N</string>
+    <string>O</string>
+    <string>P</string>
+    <string>Q</string>
+    <string>R</string>
+    <string>S</string>
+    <string>T</string>
+    <string>U</string>
+    <string>V</string>
+    <string>W</string>
+    <string>X</string>
+    <string>Y</string>
+    <string>Z</string>
+    <string>bracketleft</string>
+    <string>backslash</string>
+    <string>bracketright</string>
+    <string>asciicircum</string>
+    <string>underscore</string>
+    <string>grave</string>
+    <string>a</string>
+    <string>b</string>
+    <string>c</string>
+    <string>d</string>
+    <string>e</string>
+    <string>f</string>
+    <string>g</string>
+    <string>h</string>
+    <string>i</string>
+    <string>j</string>
+    <string>k</string>
+    <string>l</string>
+    <string>m</string>
+    <string>n</string>
+    <string>o</string>
+    <string>p</string>
+    <string>q</string>
+    <string>r</string>
+    <string>s</string>
+    <string>t</string>
+    <string>u</string>
+    <string>v</string>
+    <string>w</string>
+    <string>x</string>
+    <string>y</string>
+    <string>z</string>
+    <string>braceleft</string>
+    <string>bar</string>
+    <string>braceright</string>
+    <string>asciitilde</string>
+    <string>sterling</string>
+    <string>bullet</string>
+    <string>yen</string>
+    <string>questiondown</string>
+    <string>exclamdown</string>
+    <string>ellipsis</string>
+    <string>Euro</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
+    <key>alt</key>
+    <string>uniE000</string>
+    <key>alt_1</key>
+    <string>uniE019</string>
+    <key>altctrl</key>
+    <string>uniE002</string>
+    <key>back</key>
+    <string>uniE004</string>
+    <key>back_1</key>
+    <string>uniE021</string>
+    <key>back_2</key>
+    <string>uniE022</string>
+    <key>back_rev</key>
+    <string>uniE072</string>
+    <key>caps</key>
+    <string>uniE003</string>
+    <key>caps_1</key>
+    <string>uniE020</string>
     <key>cgj</key>
     <string>uniE07A</string>
+    <key>close</key>
+    <string>uniE025</string>
+    <key>close_1</key>
+    <string>uniE027</string>
+    <key>ctrl</key>
+    <string>uniE001</string>
+    <key>currencies</key>
+    <string>uniE014</string>
+    <key>digits</key>
+    <string>uniE013</string>
+    <key>download</key>
+    <string>uniE035</string>
+    <key>download_1</key>
+    <string>uniE045</string>
+    <key>download_2</key>
+    <string>uniE055</string>
     <key>emquad</key>
     <string>uniE085</string>
+    <key>emquad.old</key>
+    <string>uniE085.old</string>
     <key>emsp</key>
     <string>uniE087</string>
+    <key>emsp.old</key>
+    <string>uniE087.old</string>
     <key>enquad</key>
     <string>uniE084</string>
+    <key>enquad.old</key>
+    <string>uniE084.old</string>
     <key>ensp</key>
     <string>uniE086</string>
+    <key>ensp.old</key>
+    <string>uniE086.old</string>
+    <key>enter</key>
+    <string>uniE005</string>
+    <key>enter_rev</key>
+    <string>uniE071</string>
+    <key>facebook</key>
+    <string>uniE033</string>
+    <key>facebook_1</key>
+    <string>uniE043</string>
+    <key>facebook_2</key>
+    <string>uniE053</string>
     <key>figuresp</key>
     <string>uniE08B</string>
+    <key>figuresp.old</key>
+    <string>uniE08B.old</string>
     <key>fourpmsp</key>
     <string>uniE089</string>
+    <key>fourpmsp.old</key>
+    <string>uniE089.old</string>
+    <key>gearwheel</key>
+    <string>uniE030</string>
+    <key>globe</key>
+    <string>uniE00B</string>
     <key>hairsp</key>
     <string>uniE08E</string>
+    <key>help</key>
+    <string>uniE032</string>
+    <key>help_1</key>
+    <string>uniE042</string>
+    <key>help_2</key>
+    <string>uniE052</string>
+    <key>hide</key>
+    <string>uniE00A</string>
+    <key>info</key>
+    <string>uniE031</string>
+    <key>info_1</key>
+    <string>uniE041</string>
+    <key>info_2</key>
+    <string>uniE051</string>
+    <key>left_alt</key>
+    <string>uniE056</string>
+    <key>left_alt_ctrl</key>
+    <string>uniE060</string>
+    <key>left_alt_ctrl_shift</key>
+    <string>uniE062</string>
+    <key>left_alt_shift</key>
+    <string>uniE067</string>
+    <key>left_ctrl</key>
+    <string>uniE058</string>
+    <key>left_ctrl_shift</key>
+    <string>uniE069</string>
+    <key>lowercase</key>
+    <string>uniE011</string>
     <key>lrmark</key>
     <string>uniE090</string>
+    <key>lrmark.old</key>
+    <string>uniE090.old</string>
     <key>nbsp</key>
     <string>uniE082</string>
+    <key>nbsp.old</key>
+    <string>uniE082.old</string>
+    <key>next</key>
+    <string>uniE006</string>
     <key>nnbsp</key>
     <string>uniE083</string>
+    <key>nnbsp.old</key>
+    <string>uniE083.old</string>
+    <key>pin</key>
+    <string>uniE024</string>
+    <key>pin_1</key>
+    <string>uniE026</string>
+    <key>previous</key>
+    <string>uniE007</string>
     <key>punctsp</key>
     <string>uniE08C</string>
+    <key>punctsp.old</key>
+    <string>uniE08C.old</string>
+    <key>resize</key>
+    <string>uniE023</string>
+    <key>resize_1</key>
+    <string>uniE028</string>
+    <key>right_alt</key>
+    <string>uniE057</string>
+    <key>right_alt_ctrl</key>
+    <string>uniE061</string>
+    <key>right_alt_ctrl_shift</key>
+    <string>uniE063</string>
+    <key>right_alt_shift</key>
+    <string>uniE068</string>
+    <key>right_ctrl</key>
+    <string>uniE059</string>
+    <key>right_ctrl_shift</key>
+    <string>uniE070</string>
     <key>rlmark</key>
     <string>uniE091</string>
+    <key>rlmark.old</key>
+    <string>uniE091.old</string>
+    <key>shift</key>
+    <string>uniE008</string>
+    <key>shift_alt</key>
+    <string>uniE064</string>
+    <key>shift_alt_ctrl</key>
+    <string>uniE066</string>
+    <key>shift_ctrl</key>
+    <string>uniE065</string>
+    <key>shift_lock</key>
+    <string>uniE073</string>
+    <key>shifted</key>
+    <string>uniE009</string>
+    <key>shifted_lock</key>
+    <string>uniE074</string>
     <key>sixpmsp</key>
     <string>uniE08A</string>
+    <key>sixpmsp.old</key>
+    <string>uniE08A.old</string>
     <key>softhyphen</key>
     <string>uniE0A1</string>
-    <key>space</key>
+    <key>spacevisible</key>
     <string>uniE080</string>
+    <key>symbols</key>
+    <string>uniE015</string>
     <key>tab</key>
     <string>uniE0A2</string>
     <key>thinsp</key>
     <string>uniE08D</string>
     <key>threepmsp</key>
     <string>uniE088</string>
+    <key>threepmsp.old</key>
+    <string>uniE088.old</string>
+    <key>twitter</key>
+    <string>uniE034</string>
+    <key>twitter_1</key>
+    <string>uniE044</string>
+    <key>twitter_2</key>
+    <string>uniE054</string>
+    <key>uppercase</key>
+    <string>uniE010</string>
     <key>wordjoiner</key>
     <string>uniE078</string>
+    <key>wordjoiner.alt</key>
+    <string>uniE078.alt</string>
+    <key>wordjoiner.old</key>
+    <string>uniE078.old</string>
     <key>zwj</key>
     <string>uniE077</string>
+    <key>zwj.old</key>
+    <string>uniE077.old</string>
     <key>zwnj</key>
     <string>uniE079</string>
+    <key>zwnj.alt</key>
+    <string>uniE079.alt</string>
+    <key>zwnj.old</key>
+    <string>uniE079.old</string>
+    <key>zwnj_android</key>
+    <string>uniE076</string>
+    <key>zwnj_ios</key>
+    <string>uniE075</string>
     <key>zwsp</key>
     <string>uniE081</string>
+    <key>zwsp.old</key>
+    <string>uniE081.old</string>
   </dict>
 </dict>
 </plist>
