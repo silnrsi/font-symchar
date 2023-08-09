@@ -384,10 +384,10 @@
   <string>slash.glif</string>
   <key>softhyphen</key>
   <string>softhyphen.glif</string>
-  <key>space</key>
-  <string>space.glif</string>
   <key>space.old</key>
   <string>space.old.glif</string>
+  <key>spacevisible</key>
+  <string>spacevisible.glif</string>
   <key>sterling</key>
   <string>sterling.glif</string>
   <key>symbols</key>
