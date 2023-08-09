@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nbsp.old" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="_part.spaceside" xOffset="448"/>
+    <component base="_part.spaceside"/>
+    <component base="_part.ring"/>
+    <component base="_part.spacebottom"/>
+    <contour>
+      <point x="32" y="702" type="line"/>
+      <point x="208" y="702" type="line"/>
+      <point x="208" y="798" type="line"/>
+      <point x="32" y="798" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="702" type="line"/>
+      <point x="608" y="702" type="line"/>
+      <point x="608" y="798" type="line"/>
+      <point x="432" y="798" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPP</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

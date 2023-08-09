@@ -29,14 +29,14 @@
   <string>3208</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/_ringlarge</string>
-    <string>/_sizeasc/_sizedesc/_sizeuc/zwnj/_sizeuc/zwj/_sizeuc/wordjoiner/_sizeuc/zwsp/_sizeuc/lrmark/_sizeuc/rlmark/_sizeuc</string>
-    <string>/_sizeguide</string>
-    <string>/_sizedesc</string>
+    <string>/_part.ringlarge</string>
+    <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/lrmark/refuc/rlmark/refuc</string>
+    <string>/refbox</string>
+    <string>/refdesc</string>
     <string>/zwnj</string>
-    <string>/_sizeuc/space/_sizeuc/nbsp/_sizeuc/nnbsp/_sizeuc/thinsp/_sizeuc/hairsp/_sizeuc/ensp/_sizeuc/emsp/_sizeuc/_sizeasc/_sizedesc</string>
-    <string>/_sizeuc/_dotsmall/nbsp/_sizeuc/_dot/nnbsp/_sizeuc</string>
-    <string>/_sizeuc/enquad/_sizeuc/emquad/_sizeuc/ensp/_sizeuc/emsp/_sizeuc/threepmsp/_sizeuc/fourpmsp/_sizeuc/sixpmsp/_sizeuc/figuresp/_sizeuc/punctsp/_sizeuc/thinsp/_sizeuc</string>
+    <string>/refuc/space/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
+    <string>/refuc/_part.dotsmall/nbsp/refuc/_part.dot/nnbsp/refuc</string>
+    <string>/refuc/enquad/refuc/emquad/refuc/ensp/refuc/emsp/refuc/threepmsp/refuc/fourpmsp/refuc/sixpmsp/refuc/figuresp/refuc/punctsp/refuc/thinsp/refuc</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

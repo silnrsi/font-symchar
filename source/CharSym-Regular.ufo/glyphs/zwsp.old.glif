@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwsp.old" format="2">
+  <advance width="512"/>
+  <outline>
+    <component base="_part.spaceside"/>
+    <component base="_part.spaceside" xOffset="320"/>
+    <component base="_part.zwpart" xOffset="160" yOffset="390"/>
+    <component base="_part.zwpart" xOffset="160" yOffset="780"/>
+    <component base="_part.zwpart" xOffset="160" yOffset="1170"/>
+    <component base="_part.zwpart" xOffset="160" yOffset="1560"/>
+    <component base="_part.zwpart" xOffset="160" yOffset="1950"/>
+    <contour>
+      <point x="48" y="-192" type="line"/>
+      <point x="464" y="-192" type="line"/>
+      <point x="464" y="-96" type="line"/>
+      <point x="48" y="-96" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCCCP</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

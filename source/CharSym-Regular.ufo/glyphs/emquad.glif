@@ -3,9 +3,9 @@
   <advance width="2048"/>
   <unicode hex="E085"/>
   <outline>
-    <component base="_dot" xOffset="704"/>
-    <component base="_spaceside" xOffset="384" yOffset="332"/>
-    <component base="_spaceside" xOffset="1472" yOffset="332"/>
+    <component base="_part.dot" xOffset="704"/>
+    <component base="_part.spaceside" xOffset="384" yOffset="332"/>
+    <component base="_part.spaceside" xOffset="1472" yOffset="332"/>
     <contour>
       <point x="432" y="188" type="line"/>
       <point x="1616" y="188" type="line"/>

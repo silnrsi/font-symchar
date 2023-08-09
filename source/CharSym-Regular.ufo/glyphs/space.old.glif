@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space.old" format="2">
+  <advance width="640"/>
+  <outline>
+    <component base="_part.spacebottom"/>
+    <component base="_part.spaceside"/>
+    <component base="_part.spaceside" xOffset="448"/>
+    <component base="_part.dot"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -6,125 +6,125 @@
   <string>_notdef.glif</string>
   <key>.null</key>
   <string>_null.glif</string>
-  <key>_arrowdown</key>
-  <string>_arrowdown.glif</string>
-  <key>_arrowup</key>
-  <string>_arrowup.glif</string>
-  <key>_dot</key>
-  <string>_dot.glif</string>
-  <key>_dotsmall</key>
-  <string>_dotsmall.glif</string>
-  <key>_emquadold</key>
-  <string>_emquadold.glif</string>
-  <key>_emspold</key>
-  <string>_emspold.glif</string>
-  <key>_enquadold</key>
-  <string>_enquadold.glif</string>
-  <key>_enspold</key>
-  <string>_enspold.glif</string>
-  <key>_figurespold</key>
-  <string>_figurespold.glif</string>
-  <key>_fourpmspold</key>
-  <string>_fourpmspold.glif</string>
-  <key>_lrmarkold</key>
-  <string>_lrmarkold.glif</string>
-  <key>_nbspold</key>
-  <string>_nbspold.glif</string>
-  <key>_nnbspold</key>
-  <string>_nnbspold.glif</string>
-  <key>_punctspold</key>
-  <string>_punctspold.glif</string>
-  <key>_ring</key>
-  <string>_ring.glif</string>
-  <key>_ringlarge</key>
-  <string>_ringlarge.glif</string>
-  <key>_rlmarkold</key>
-  <string>_rlmarkold.glif</string>
-  <key>_sixpmspold</key>
-  <string>_sixpmspold.glif</string>
-  <key>_sizeasc</key>
-  <string>_sizeasc.glif</string>
-  <key>_sizedesc</key>
-  <string>_sizedesc.glif</string>
-  <key>_sizeguide</key>
-  <string>_sizeguide.glif</string>
-  <key>_sizeuc</key>
-  <string>_sizeuc.glif</string>
-  <key>_spacebottom</key>
-  <string>_spacebottom.glif</string>
-  <key>_spaceold</key>
-  <string>_spaceold.glif</string>
-  <key>_spaceside</key>
-  <string>_spaceside.glif</string>
-  <key>_threepmspold</key>
-  <string>_threepmspold.glif</string>
-  <key>_triangleleft</key>
-  <string>_triangleleft.glif</string>
-  <key>_triangleright</key>
-  <string>_triangleright.glif</string>
-  <key>_wordjoineralt</key>
-  <string>_wordjoineralt.glif</string>
-  <key>_wordjoinerold</key>
-  <string>_wordjoinerold.glif</string>
-  <key>_zwjold</key>
-  <string>_zwjold.glif</string>
-  <key>_zwnjalt</key>
-  <string>_zwnjalt.glif</string>
-  <key>_zwnjold</key>
-  <string>_zwnjold.glif</string>
-  <key>_zwpart</key>
-  <string>_zwpart.glif</string>
-  <key>_zwsolid</key>
-  <string>_zwsolid.glif</string>
-  <key>_zwspold</key>
-  <string>_zwspold.glif</string>
+  <key>_part.arrowdown</key>
+  <string>_part.arrowdown.glif</string>
+  <key>_part.arrowup</key>
+  <string>_part.arrowup.glif</string>
+  <key>_part.dot</key>
+  <string>_part.dot.glif</string>
+  <key>_part.dotsmall</key>
+  <string>_part.dotsmall.glif</string>
+  <key>_part.ring</key>
+  <string>_part.ring.glif</string>
+  <key>_part.ringlarge</key>
+  <string>_part.ringlarge.glif</string>
+  <key>_part.spacebottom</key>
+  <string>_part.spacebottom.glif</string>
+  <key>_part.spaceside</key>
+  <string>_part.spaceside.glif</string>
+  <key>_part.triangleleft</key>
+  <string>_part.triangleleft.glif</string>
+  <key>_part.triangleright</key>
+  <string>_part.triangleright.glif</string>
+  <key>_part.zwpart</key>
+  <string>_part.zwpart.glif</string>
+  <key>_part.zwsolid</key>
+  <string>_part.zwsolid.glif</string>
   <key>cgj</key>
   <string>cgj.glif</string>
   <key>emquad</key>
   <string>emquad.glif</string>
+  <key>emquad.old</key>
+  <string>emquad.old.glif</string>
   <key>emsp</key>
   <string>emsp.glif</string>
+  <key>emsp.old</key>
+  <string>emsp.old.glif</string>
   <key>enquad</key>
   <string>enquad.glif</string>
+  <key>enquad.old</key>
+  <string>enquad.old.glif</string>
   <key>ensp</key>
   <string>ensp.glif</string>
+  <key>ensp.old</key>
+  <string>ensp.old.glif</string>
   <key>figuresp</key>
   <string>figuresp.glif</string>
+  <key>figuresp.old</key>
+  <string>figuresp.old.glif</string>
   <key>fourpmsp</key>
   <string>fourpmsp.glif</string>
+  <key>fourpmsp.old</key>
+  <string>fourpmsp.old.glif</string>
   <key>hairsp</key>
   <string>hairsp.glif</string>
   <key>lrmark</key>
   <string>lrmark.glif</string>
+  <key>lrmark.old</key>
+  <string>lrmark.old.glif</string>
   <key>nbsp</key>
   <string>nbsp.glif</string>
+  <key>nbsp.old</key>
+  <string>nbsp.old.glif</string>
   <key>nnbsp</key>
   <string>nnbsp.glif</string>
+  <key>nnbsp.old</key>
+  <string>nnbsp.old.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>punctsp</key>
   <string>punctsp.glif</string>
+  <key>punctsp.old</key>
+  <string>punctsp.old.glif</string>
+  <key>refasc</key>
+  <string>refasc.glif</string>
+  <key>refbox</key>
+  <string>refbox.glif</string>
+  <key>refdesc</key>
+  <string>refdesc.glif</string>
+  <key>refuc</key>
+  <string>refuc.glif</string>
   <key>rlmark</key>
   <string>rlmark.glif</string>
+  <key>rlmark.old</key>
+  <string>rlmark.old.glif</string>
   <key>sixpmsp</key>
   <string>sixpmsp.glif</string>
+  <key>sixpmsp.old</key>
+  <string>sixpmsp.old.glif</string>
   <key>softhyphen</key>
   <string>softhyphen.glif</string>
   <key>space</key>
   <string>space.glif</string>
+  <key>space.old</key>
+  <string>space.old.glif</string>
   <key>tab</key>
   <string>tab.glif</string>
   <key>thinsp</key>
   <string>thinsp.glif</string>
   <key>threepmsp</key>
   <string>threepmsp.glif</string>
+  <key>threepmsp.old</key>
+  <string>threepmsp.old.glif</string>
   <key>wordjoiner</key>
   <string>wordjoiner.glif</string>
+  <key>wordjoiner.alt</key>
+  <string>wordjoiner.alt.glif</string>
+  <key>wordjoiner.old</key>
+  <string>wordjoiner.old.glif</string>
   <key>zwj</key>
   <string>zwj.glif</string>
+  <key>zwj.old</key>
+  <string>zwj.old.glif</string>
   <key>zwnj</key>
   <string>zwnj.glif</string>
+  <key>zwnj.alt</key>
+  <string>zwnj.alt.glif</string>
+  <key>zwnj.old</key>
+  <string>zwnj.old.glif</string>
   <key>zwsp</key>
   <string>zwsp.glif</string>
+  <key>zwsp.old</key>
+  <string>zwsp.old.glif</string>
 </dict>
 </plist>

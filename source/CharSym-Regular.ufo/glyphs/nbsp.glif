@@ -3,7 +3,7 @@
   <advance width="640"/>
   <unicode hex="E082"/>
   <outline>
-    <component base="_arrowup" yOffset="-450"/>
-    <component base="_dotsmall"/>
+    <component base="_part.arrowup" yOffset="-450"/>
+    <component base="_part.dotsmall"/>
   </outline>
 </glyph>

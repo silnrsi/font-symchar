@@ -2,10 +2,10 @@
 <glyph name="cgj" format="2">
   <unicode hex="E07A"/>
   <outline>
-    <component base="_zwpart" xOffset="-95" yOffset="390"/>
-    <component base="_zwpart" xOffset="-95" yOffset="780"/>
-    <component base="_zwpart" xOffset="-95" yOffset="1170"/>
-    <component base="_zwpart" xOffset="-95" yOffset="1560"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="390"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="780"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="1170"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="1560"/>
     <contour>
       <point x="-260" y="1546" type="curve"/>
       <point x="-165" y="1546" type="line"/>
