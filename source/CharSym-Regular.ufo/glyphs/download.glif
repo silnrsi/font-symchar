@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="download" format="2">
+  <advance width="1485"/>
+  <unicode hex="E035"/>
+  <outline>
+    <contour>
+      <point x="446" y="1027" type="line"/>
+      <point x="446" y="583" type="line"/>
+      <point x="50" y="583" type="line"/>
+      <point x="742" y="100" type="line"/>
+      <point x="1435" y="583" type="line"/>
+      <point x="1039" y="583" type="line"/>
+      <point x="1039" y="1027" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="1290" type="line"/>
+      <point x="446" y="1085" type="line"/>
+      <point x="1039" y="1085" type="line"/>
+      <point x="1039" y="1290" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="50" type="line"/>
+      <point x="56" y="-85" type="line"/>
+      <point x="1429" y="-85" type="line"/>
+      <point x="1429" y="50" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="1480" type="line"/>
+      <point x="446" y="1345" type="line"/>
+      <point x="1039" y="1345" type="line"/>
+      <point x="1039" y="1480" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="1590" type="line"/>
+      <point x="446" y="1535" type="line"/>
+      <point x="1039" y="1535" type="line"/>
+      <point x="1039" y="1590" type="line"/>
+    </contour>
+  </outline>
+</glyph>
