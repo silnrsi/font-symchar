@@ -1,3 +1,3 @@
 #!/bin/sh
 
-psfufo2glyphs source/CharSym.designspace source/CharSym.glyphs
+psfufo2glyphs source/CharSymSource.designspace source/CharSymSource.glyphs

@@ -1,6 +1,6 @@
 #!/bin/sh
 # For use after editing the font with Glyphs
 
-psfglyphs2ufo source/CharSym.glyphs source
+psfglyphs2ufo source/CharSymSource.glyphs source
 
 ./preflight
