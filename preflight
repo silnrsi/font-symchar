@@ -5,3 +5,13 @@ psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/CharSymSource-Regu
 
 echo "-----Updating glyph orders in Regular..."
 psfsetglyphorder --header sort_design -i source/glyph_data.csv source/CharSymSource-Regular.ufo
+
+echo "-----Creating subset UFOs..."
+python3 tools/psfsubset.py -i source/glyph_data.csv --header glyph_name --filter in_g source/CharSymSource-Regular.ufo source/CharSym-Regular.ufo
+python3 tools/psfsubset.py -i source/glyph_data.csv --header glyph_name --filter in_k source/CharSymSource-Regular.ufo source/CharSymK-Regular.ufo
+
+echo "-----Updating family name metadata in subset fonts..."
+perl -i -pe 's/CharSymSource/CharSym/g' source/CharSym-Regular.ufo/fontinfo.plist
+perl -i -pe 's/CharSymSource/CharSym/g' source/CharSym-Regular.ufo/lib.plist
+perl -i -pe 's/CharSymSource/CharSymK/g' source/CharSymK-Regular.ufo/fontinfo.plist
+perl -i -pe 's/CharSymSource/CharSymK/g' source/CharSymK-Regular.ufo/lib.plist
