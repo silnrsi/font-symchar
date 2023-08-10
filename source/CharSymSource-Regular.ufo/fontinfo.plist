@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-480</integer>
   <key>familyName</key>
-  <string>CharSym</string>
+  <string>CharSymSource</string>
   <key>openTypeHeadCreated</key>
   <string>2023/08/09 20:57:23</string>
   <key>openTypeHheaAscender</key>
@@ -77,11 +77,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>CharSym</string>
+  <string>CharSymSource</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: CharSym Regular: 2023</string>
+  <string>SIL International: CharSymSource Regular: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 3.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -137,21 +137,21 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>CharSym-Regular</string>
+  <string>CharSymSource-Regular</string>
   <key>postscriptFullName</key>
-  <string>CharSym</string>
+  <string>CharSymSource</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>102</integer>
   <key>styleMapFamilyName</key>
-  <string>CharSym</string>
+  <string>CharSymSource</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
-  <string>CharSym is a trademark of SIL International.</string>
+  <string>CharSymSource is a trademark of SIL International.</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
