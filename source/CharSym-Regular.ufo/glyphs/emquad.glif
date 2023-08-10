@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emquad" format="2">
+  <advance width="2048"/>
+  <unicode hex="E085"/>
+  <outline>
+    <component base="_part.dot" xOffset="704"/>
+    <component base="_part.spaceside" xOffset="384" yOffset="332"/>
+    <component base="_part.spaceside" xOffset="1472" yOffset="332"/>
+    <contour>
+      <point x="432" y="188" type="line"/>
+      <point x="1616" y="188" type="line"/>
+      <point x="1616" y="284" type="line"/>
+      <point x="432" y="284" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCP</string>
+    </dict>
+  </lib>
+</glyph>

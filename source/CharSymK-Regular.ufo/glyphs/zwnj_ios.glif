@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwnj_ios" format="2">
+  <advance width="644"/>
+  <unicode hex="E075"/>
+  <outline>
+    <contour>
+      <point x="322" y="1171" type="line"/>
+      <point x="644" y="1492" type="line"/>
+      <point x="0" y="1492" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="-404" type="line"/>
+      <point x="384" y="-404" type="line"/>
+      <point x="384" y="-204" type="line"/>
+      <point x="260" y="-204" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="-4" type="line"/>
+      <point x="384" y="-4" type="line"/>
+      <point x="384" y="196" type="line"/>
+      <point x="260" y="196" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="396" type="line"/>
+      <point x="384" y="396" type="line"/>
+      <point x="384" y="596" type="line"/>
+      <point x="260" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="796" type="line"/>
+      <point x="384" y="796" type="line"/>
+      <point x="384" y="996" type="line"/>
+      <point x="260" y="996" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emsp" format="2">
+  <advance width="2048"/>
+  <unicode hex="E087"/>
+  <outline>
+    <component base="_part.dot" xOffset="704"/>
+    <contour>
+      <point x="432" y="1088" type="line"/>
+      <point x="1616" y="1088" type="line"/>
+      <point x="1616" y="1184" type="line"/>
+      <point x="432" y="1184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

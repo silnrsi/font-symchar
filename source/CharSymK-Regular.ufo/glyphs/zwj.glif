@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwj" format="2">
+  <unicode hex="E077"/>
+  <outline>
+    <component base="_part.zwsolid"/>
+    <component base="_part.triangleleft" xOffset="600"/>
+    <component base="_part.triangleright" xOffset="-600"/>
+  </outline>
+</glyph>

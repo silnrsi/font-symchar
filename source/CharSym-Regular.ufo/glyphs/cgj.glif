@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cgj" format="2">
+  <unicode hex="E07A"/>
+  <outline>
+    <component base="_part.zwpart" xOffset="-95" yOffset="390"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="780"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="1170"/>
+    <component base="_part.zwpart" xOffset="-95" yOffset="1560"/>
+    <contour>
+      <point x="-260" y="1546" type="curve"/>
+      <point x="-165" y="1546" type="line"/>
+      <point x="-149" y="1663"/>
+      <point x="-78" y="1697"/>
+      <point x="0" y="1697" type="curve" smooth="yes"/>
+      <point x="78" y="1697"/>
+      <point x="152" y="1663"/>
+      <point x="168" y="1546" type="curve"/>
+      <point x="261" y="1546" type="line"/>
+      <point x="248" y="1707"/>
+      <point x="137" y="1793"/>
+      <point x="0" y="1793" type="curve" smooth="yes"/>
+      <point x="-137" y="1793"/>
+      <point x="-247" y="1707"/>
+    </contour>
+    <contour>
+      <point x="-1" y="-287" type="curve" smooth="yes"/>
+      <point x="136" y="-287"/>
+      <point x="247" y="-201"/>
+      <point x="260" y="-40" type="curve"/>
+      <point x="165" y="-40" type="line"/>
+      <point x="149" y="-157"/>
+      <point x="77" y="-191"/>
+      <point x="-1" y="-191" type="curve" smooth="yes"/>
+      <point x="-79" y="-191"/>
+      <point x="-152" y="-157"/>
+      <point x="-168" y="-40" type="curve"/>
+      <point x="-261" y="-40" type="line"/>
+      <point x="-248" y="-201"/>
+      <point x="-138" y="-287"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPP</string>
+    </dict>
+  </lib>
+</glyph>

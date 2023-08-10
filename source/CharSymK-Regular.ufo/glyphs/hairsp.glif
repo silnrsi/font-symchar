@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hairsp" format="2">
+  <advance width="566"/>
+  <unicode hex="E08E"/>
+  <outline>
+    <component base="_part.dotsmall" xOffset="-37"/>
+    <component base="_part.dotsmall" xOffset="-199" yOffset="580"/>
+    <component base="_part.dotsmall" xOffset="125" yOffset="580"/>
+  </outline>
+</glyph>

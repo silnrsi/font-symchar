@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwnj_android" format="2">
+  <advance width="1770"/>
+  <unicode hex="E076"/>
+  <outline>
+    <contour>
+      <point x="1397" y="177" type="line"/>
+      <point x="1750" y="531" type="line"/>
+      <point x="1397" y="885" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="-404" type="line"/>
+      <point x="947" y="-404" type="line"/>
+      <point x="947" y="-64" type="line"/>
+      <point x="823" y="-64" type="line"/>
+    </contour>
+    <contour>
+      <point x="373" y="177" type="line"/>
+      <point x="373" y="885" type="line"/>
+      <point x="20" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="106" type="line"/>
+      <point x="947" y="106" type="line"/>
+      <point x="947" y="446" type="line"/>
+      <point x="823" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="616" type="line"/>
+      <point x="947" y="616" type="line"/>
+      <point x="947" y="956" type="line"/>
+      <point x="823" y="956" type="line"/>
+    </contour>
+    <contour>
+      <point x="823" y="1126" type="line"/>
+      <point x="947" y="1126" type="line"/>
+      <point x="947" y="1466" type="line"/>
+      <point x="823" y="1466" type="line"/>
+    </contour>
+  </outline>
+</glyph>
