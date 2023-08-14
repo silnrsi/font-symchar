@@ -4,13 +4,23 @@
 
 APPNAME = 'CharSym'
 DESC_SHORT = "CharSym Fonts"
-DEBPKG = 'fonts-sil-charsym'
 
+# build primary font
 getufoinfo('source/CharSym-Regular.ufo')
 
-fontfamily=APPNAME
+designspace('source/CharSym.designspace',
+            target = "${DS:FILENAME_BASE}.ttf",
+            pdf = fret(params="-r -oi")
+)
 
-designspace('source/' + fontfamily + '.designspace',
+# build Keyman font
+keymanpackage = package(appname = "CharSymK")
+
+getufoinfo('source/CharSymK-Regular.ufo', keymanpackage)
+
+designspace('source/CharSymK.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             pdf = fret(params="-r -oi"),
+            package = keymanpackage
 )
+
