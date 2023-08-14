@@ -194,9 +194,9 @@
     <string>help_2</string>
     <string>gearwheel</string>
     <string>globe</string>
-    <string>fbook</string>
-    <string>fbook_1</string>
-    <string>fbook_2</string>
+    <string>facebook</string>
+    <string>facebook_1</string>
+    <string>facebook_2</string>
     <string>twitter</string>
     <string>twitter_1</string>
     <string>twitter_2</string>
@@ -360,11 +360,11 @@
     <string>uniE005</string>
     <key>enter_rev</key>
     <string>uniE071</string>
-    <key>fbook</key>
+    <key>facebook</key>
     <string>uniE033</string>
-    <key>fbook_1</key>
+    <key>facebook_1</key>
     <string>uniE043</string>
-    <key>fbook_2</key>
+    <key>facebook_2</key>
     <string>uniE053</string>
     <key>figuresp</key>
     <string>uniE08B</string>

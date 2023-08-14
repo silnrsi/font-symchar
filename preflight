@@ -7,8 +7,8 @@ echo "-----Updating glyph orders in Regular..."
 psfsetglyphorder --header sort_design -i source/glyph_data.csv source/CharSymSource-Regular.ufo
 
 echo "-----Creating subset UFOs..."
-python3 tools/psfsubset.py -i source/glyph_data.csv --header glyph_name --filter in_g source/CharSymSource-Regular.ufo source/CharSym-Regular.ufo
-python3 tools/psfsubset.py -i source/glyph_data.csv --header glyph_name --filter in_k source/CharSymSource-Regular.ufo source/CharSymK-Regular.ufo
+psfsubset -i source/glyph_data.csv --header glyph_name --filter in_g source/CharSymSource-Regular.ufo source/CharSym-Regular.ufo
+psfsubset -i source/glyph_data.csv --header glyph_name --filter in_k source/CharSymSource-Regular.ufo source/CharSymK-Regular.ufo
 
 echo "-----Updating family name metadata in subset fonts..."
 perl -i -pe 's/CharSymSource/CharSym/g' source/CharSym-Regular.ufo/fontinfo.plist

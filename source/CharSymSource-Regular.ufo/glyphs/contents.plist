@@ -192,12 +192,12 @@
   <string>exclamdown.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>fbook</key>
-  <string>fbook.glif</string>
-  <key>fbook_1</key>
-  <string>fbook_1.glif</string>
-  <key>fbook_2</key>
-  <string>fbook_2.glif</string>
+  <key>facebook</key>
+  <string>facebook.glif</string>
+  <key>facebook_1</key>
+  <string>facebook_1.glif</string>
+  <key>facebook_2</key>
+  <string>facebook_2.glif</string>
   <key>figuresp</key>
   <string>figuresp.glif</string>
   <key>figuresp.old</key>

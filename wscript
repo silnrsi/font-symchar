@@ -3,7 +3,7 @@
 # this is a smith configuration file
 
 APPNAME = 'CharSym'
-DESC_SHORT = "CharSym Font"
+DESC_SHORT = "CharSym Fonts"
 DEBPKG = 'fonts-sil-charsym'
 
 getufoinfo('source/CharSym-Regular.ufo')
