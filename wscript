@@ -24,7 +24,7 @@ designspace('source/CharSymK.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             pdf = fret(params="-r -oi"),
             woff = woff('web/${DS:FILENAME_BASE}',
-                metadata = f'../source/CharSymK-WOFF-metadata.xml')
+                metadata = f'../source/CharSymK-WOFF-metadata.xml'),
             package = keymanpackage
 )
 
