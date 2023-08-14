@@ -45,7 +45,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
   <string>SIL International: CharSymSource Regular: 2023</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
-  <integer>1</integer>
+  <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>

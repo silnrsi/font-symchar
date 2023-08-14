@@ -7,13 +7,13 @@
   <key>capHeight</key>
   <integer>1800</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2023 SIL International</string>
+  <string>Copyright (c) 2013-2023 SIL International</string>
   <key>descender</key>
   <integer>-480</integer>
   <key>familyName</key>
   <string>CharSym</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/08/14 12:27:14</string>
+  <string>2023/08/14 14:04:37</string>
   <key>openTypeHheaAscender</key>
   <integer>1980</integer>
   <key>openTypeHheaDescender</key>
@@ -21,13 +21,13 @@
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
-  <string>Copyright (c) 2023 SIL International</string>
+  <string>A font of symbols for representing invisible characters</string>
   <key>openTypeNameDesigner</key>
-  <string>Victor Gaultney</string>
+  <string>John Durdin, Victor Gaultney</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2023 SIL International (https://www.sil.org/) with Reserved Font Names "CharSym" and "SIL".
+  <string>Copyright (c) 2013-2023 SIL International (https://www.sil.org/) with Reserved Font Names "CharSym" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
