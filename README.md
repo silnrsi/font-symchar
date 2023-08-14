@@ -1,4 +1,4 @@
-# SymChar [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_CharSym/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_CharSym&guest=1)
+# SymChar [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_SymChar/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_SymChar&guest=1)
 
 
 SymChar (Symbols for Characters) is an open font that can be used by applications to show symbols that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 format.
