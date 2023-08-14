@@ -10,7 +10,9 @@ getufoinfo('source/CharSym-Regular.ufo')
 
 designspace('source/CharSym.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
-            pdf = fret(params="-r -oi")
+            pdf = fret(params="-r -oi"),
+            woff = woff('web/${DS:FILENAME_BASE}',
+                metadata = f'../source/CharSym-WOFF-metadata.xml')
 )
 
 # build Keyman font
@@ -21,6 +23,8 @@ getufoinfo('source/CharSymK-Regular.ufo', keymanpackage)
 designspace('source/CharSymK.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             pdf = fret(params="-r -oi"),
+            woff = woff('web/${DS:FILENAME_BASE}',
+                metadata = f'../source/CharSymK-WOFF-metadata.xml')
             package = keymanpackage
 )
 

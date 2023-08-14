@@ -15,3 +15,7 @@ perl -i -pe 's/CharSymSource/CharSym/g' source/CharSym-Regular.ufo/fontinfo.plis
 perl -i -pe 's/CharSymSource/CharSym/g' source/CharSym-Regular.ufo/lib.plist
 perl -i -pe 's/CharSymSource/CharSymK/g' source/CharSymK-Regular.ufo/fontinfo.plist
 perl -i -pe 's/CharSymSource/CharSymK/g' source/CharSymK-Regular.ufo/lib.plist
+
+echo "-----Updating WOFF metadata..."
+psfmakewoffmetadata -n charsym -i "org.sil.fonts" -o source/CharSym-WOFF-metadata.xml source/CharSym-Regular.ufo
+psfmakewoffmetadata -n charsymk -i "org.sil.fonts" -o source/CharSymK-WOFF-metadata.xml source/CharSymK-Regular.ufo
