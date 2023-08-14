@@ -11,9 +11,9 @@
   <key>descender</key>
   <integer>-480</integer>
   <key>familyName</key>
-  <string>CharSym</string>
+  <string>SymCharK</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/08/14 14:04:37</string>
+  <string>2023/08/14 14:38:42</string>
   <key>openTypeHheaAscender</key>
   <integer>1980</integer>
   <key>openTypeHheaDescender</key>
@@ -27,7 +27,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2013-2023 SIL International (https://www.sil.org/) with Reserved Font Names "CharSym" and "SIL".
+  <string>Copyright (c) 2013-2023 SIL International (https://www.sil.org/) with Reserved Font Names "SymChar" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
@@ -77,11 +77,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>https://software.sil.org/wstech/</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>CharSym</string>
+  <string>SymCharK</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: CharSym Regular: 2023</string>
+  <string>SIL International: SymCharK Regular: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 3.000</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -137,21 +137,21 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>CharSym-Regular</string>
+  <string>SymCharK-Regular</string>
   <key>postscriptFullName</key>
-  <string>CharSym</string>
+  <string>SymCharK</string>
   <key>postscriptUnderlinePosition</key>
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>102</integer>
   <key>styleMapFamilyName</key>
-  <string>CharSym</string>
+  <string>SymCharK</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
-  <string>CharSym is a trademark of SIL International.</string>
+  <string>SymCharK is a trademark of SIL International.</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
@@ -184,11 +184,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <array>
       <dict>
         <key>text</key>
-        <string>CharSym (Character Symbols) is an open font that can be used by applications to show symbols that represent 'invisible' characters.</string>
+        <string>SymCharK (Character Symbols) is an open font that can be used by applications to show symbols that represent 'invisible' characters.</string>
       </dict>
     </array>
     <key>url</key>
-    <string>https://github.com/silnrsi/font-charsym</string>
+    <string>https://github.com/silnrsi/font-SymChar</string>
   </dict>
   <key>xHeight</key>
   <integer>750</integer>

@@ -2,29 +2,29 @@
 # encoding: utf-8
 # this is a smith configuration file
 
-APPNAME = 'CharSym'
-DESC_SHORT = "CharSym Fonts"
+APPNAME = 'SymChar'
+DESC_SHORT = "SymChar Fonts"
 
 # build primary font
-getufoinfo('source/CharSym-Regular.ufo')
+getufoinfo('source/SymChar-Regular.ufo')
 
-designspace('source/CharSym.designspace',
+designspace('source/SymChar.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             pdf = fret(params="-r -oi"),
             woff = woff('web/${DS:FILENAME_BASE}',
-                metadata = f'../source/CharSym-WOFF-metadata.xml')
+                metadata = f'../source/SymChar-WOFF-metadata.xml')
 )
 
 # build Keyman font
-keymanpackage = package(appname = "CharSymK")
+keymanpackage = package(appname = "SymCharK")
 
-getufoinfo('source/CharSymK-Regular.ufo', keymanpackage)
+getufoinfo('source/SymCharK-Regular.ufo', keymanpackage)
 
-designspace('source/CharSymK.designspace',
+designspace('source/SymCharK.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             pdf = fret(params="-r -oi"),
             woff = woff('web/${DS:FILENAME_BASE}',
-                metadata = f'../source/CharSymK-WOFF-metadata.xml'),
+                metadata = f'../source/SymCharK-WOFF-metadata.xml'),
             package = keymanpackage
 )
 

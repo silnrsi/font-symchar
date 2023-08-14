@@ -1,6 +1,6 @@
-CharSym
+SymChar
 
-CharSym (Character Symbols) is an open font that can be used by applications to show symbols
+SymChar (Symbols for Characters) is an open font that can be used by applications to show symbols
 that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 format.
 
 The build process requires smith (https://github.com/silnrsi/smith) and project

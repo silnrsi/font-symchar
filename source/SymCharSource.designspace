@@ -16,7 +16,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="CharSymK" filename="CharSymK-Regular.ufo" name="CharSymK" stylename="Regular">
+        <source familyname="SymCharSource" filename="SymCharSource-Regular.ufo" name="SymCharSource" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -29,7 +29,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="CharSymK" filename="CharSymK-Regular.ufo" name="CharSymK" stylemapfamilyname="CharSymK" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="SymCharSource" filename="SymCharSource-Regular.ufo" name="SymCharSource" stylemapfamilyname="SymCharSource" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />

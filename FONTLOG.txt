@@ -1,18 +1,19 @@
 -----
-FONTLOG for the CharSym fonts
+FONTLOG for the SymChar fonts
 
-This file provides detailed information on the CharSym Font Software.
-This information should be distributed along with the CharSym fonts (derived from the Bloom Show Inv fonts) and any derivative works.
+This file provides detailed information on the SymChar Font Software.
+This information should be distributed along with the SymChar fonts
+(derived from the Bloom Show Inv and Keymanweb-OSK fonts) and any derivative works.
 
 Basic Font Information
 
-CharSym is an open font that can be used by applications to show symbols
+SymChar is an open font that can be used by applications to show symbols
 that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 format.
 
 ChangeLog
 
-14 Aug 2023 (SIL font development team) CharSym version 3.000
-- new name CharSym (Character Symbols)
+14 Aug 2023 (SIL font development team) SymChar version 3.000
+- new name SymChar (Symbols for Characters)
 - extra glyphs as requested by application developers
 - incorporating symbols used in the Keymanweb-OSK font
 

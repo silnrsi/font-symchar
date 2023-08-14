@@ -43,7 +43,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
-  <string>SIL International: CharSym Regular: 2023</string>
+  <string>SIL International: SymCharSource Regular: 2023</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -118,6 +118,26 @@
     <string>_part.triangleright</string>
     <string>_part.arrowdown</string>
     <string>_part.arrowup</string>
+    <string>space.old</string>
+    <string>nbsp.old</string>
+    <string>nnbsp.old</string>
+    <string>enquad.old</string>
+    <string>emquad.old</string>
+    <string>ensp.old</string>
+    <string>emsp.old</string>
+    <string>threepmsp.old</string>
+    <string>fourpmsp.old</string>
+    <string>sixpmsp.old</string>
+    <string>figuresp.old</string>
+    <string>punctsp.old</string>
+    <string>zwsp.old</string>
+    <string>zwnj.old</string>
+    <string>zwnj.alt</string>
+    <string>zwj.old</string>
+    <string>wordjoiner.old</string>
+    <string>wordjoiner.alt</string>
+    <string>lrmark.old</string>
+    <string>rlmark.old</string>
     <string>uppercase</string>
     <string>lowercase</string>
     <string>caps</string>
@@ -180,6 +200,107 @@
     <string>twitter</string>
     <string>twitter_1</string>
     <string>twitter_2</string>
+    <string>exclam</string>
+    <string>quotedbl</string>
+    <string>numbersign</string>
+    <string>dollar</string>
+    <string>percent</string>
+    <string>ampersand</string>
+    <string>quotesingle</string>
+    <string>parenleft</string>
+    <string>parenright</string>
+    <string>asterisk</string>
+    <string>plus</string>
+    <string>comma</string>
+    <string>hyphen</string>
+    <string>period</string>
+    <string>slash</string>
+    <string>zero</string>
+    <string>one</string>
+    <string>two</string>
+    <string>three</string>
+    <string>four</string>
+    <string>five</string>
+    <string>six</string>
+    <string>seven</string>
+    <string>eight</string>
+    <string>nine</string>
+    <string>colon</string>
+    <string>semicolon</string>
+    <string>less</string>
+    <string>equal</string>
+    <string>greater</string>
+    <string>question</string>
+    <string>at</string>
+    <string>A</string>
+    <string>B</string>
+    <string>C</string>
+    <string>D</string>
+    <string>E</string>
+    <string>F</string>
+    <string>G</string>
+    <string>H</string>
+    <string>I</string>
+    <string>J</string>
+    <string>K</string>
+    <string>L</string>
+    <string>M</string>
+    <string>N</string>
+    <string>O</string>
+    <string>P</string>
+    <string>Q</string>
+    <string>R</string>
+    <string>S</string>
+    <string>T</string>
+    <string>U</string>
+    <string>V</string>
+    <string>W</string>
+    <string>X</string>
+    <string>Y</string>
+    <string>Z</string>
+    <string>bracketleft</string>
+    <string>backslash</string>
+    <string>bracketright</string>
+    <string>asciicircum</string>
+    <string>underscore</string>
+    <string>grave</string>
+    <string>a</string>
+    <string>b</string>
+    <string>c</string>
+    <string>d</string>
+    <string>e</string>
+    <string>f</string>
+    <string>g</string>
+    <string>h</string>
+    <string>i</string>
+    <string>j</string>
+    <string>k</string>
+    <string>l</string>
+    <string>m</string>
+    <string>n</string>
+    <string>o</string>
+    <string>p</string>
+    <string>q</string>
+    <string>r</string>
+    <string>s</string>
+    <string>t</string>
+    <string>u</string>
+    <string>v</string>
+    <string>w</string>
+    <string>x</string>
+    <string>y</string>
+    <string>z</string>
+    <string>braceleft</string>
+    <string>bar</string>
+    <string>braceright</string>
+    <string>asciitilde</string>
+    <string>sterling</string>
+    <string>bullet</string>
+    <string>yen</string>
+    <string>questiondown</string>
+    <string>exclamdown</string>
+    <string>ellipsis</string>
+    <string>Euro</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -221,12 +342,20 @@
     <string>uniE055</string>
     <key>emquad</key>
     <string>uniE085</string>
+    <key>emquad.old</key>
+    <string>uniE085.old</string>
     <key>emsp</key>
     <string>uniE087</string>
+    <key>emsp.old</key>
+    <string>uniE087.old</string>
     <key>enquad</key>
     <string>uniE084</string>
+    <key>enquad.old</key>
+    <string>uniE084.old</string>
     <key>ensp</key>
     <string>uniE086</string>
+    <key>ensp.old</key>
+    <string>uniE086.old</string>
     <key>enter</key>
     <string>uniE005</string>
     <key>enter_rev</key>
@@ -239,8 +368,12 @@
     <string>uniE053</string>
     <key>figuresp</key>
     <string>uniE08B</string>
+    <key>figuresp.old</key>
+    <string>uniE08B.old</string>
     <key>fourpmsp</key>
     <string>uniE089</string>
+    <key>fourpmsp.old</key>
+    <string>uniE089.old</string>
     <key>gearwheel</key>
     <string>uniE030</string>
     <key>globe</key>
@@ -277,12 +410,18 @@
     <string>uniE011</string>
     <key>lrmark</key>
     <string>uniE090</string>
+    <key>lrmark.old</key>
+    <string>uniE090.old</string>
     <key>nbsp</key>
     <string>uniE082</string>
+    <key>nbsp.old</key>
+    <string>uniE082.old</string>
     <key>next</key>
     <string>uniE006</string>
     <key>nnbsp</key>
     <string>uniE083</string>
+    <key>nnbsp.old</key>
+    <string>uniE083.old</string>
     <key>pin</key>
     <string>uniE024</string>
     <key>pin_1</key>
@@ -291,6 +430,8 @@
     <string>uniE007</string>
     <key>punctsp</key>
     <string>uniE08C</string>
+    <key>punctsp.old</key>
+    <string>uniE08C.old</string>
     <key>resize</key>
     <string>uniE023</string>
     <key>resize_1</key>
@@ -309,6 +450,8 @@
     <string>uniE070</string>
     <key>rlmark</key>
     <string>uniE091</string>
+    <key>rlmark.old</key>
+    <string>uniE091.old</string>
     <key>shift</key>
     <string>uniE008</string>
     <key>shift_alt</key>
@@ -325,6 +468,8 @@
     <string>uniE074</string>
     <key>sixpmsp</key>
     <string>uniE08A</string>
+    <key>sixpmsp.old</key>
+    <string>uniE08A.old</string>
     <key>softhyphen</key>
     <string>uniE0A1</string>
     <key>spacevisible</key>
@@ -337,6 +482,8 @@
     <string>uniE08D</string>
     <key>threepmsp</key>
     <string>uniE088</string>
+    <key>threepmsp.old</key>
+    <string>uniE088.old</string>
     <key>twitter</key>
     <string>uniE034</string>
     <key>twitter_1</key>
@@ -347,16 +494,28 @@
     <string>uniE010</string>
     <key>wordjoiner</key>
     <string>uniE078</string>
+    <key>wordjoiner.alt</key>
+    <string>uniE078.alt</string>
+    <key>wordjoiner.old</key>
+    <string>uniE078.old</string>
     <key>zwj</key>
     <string>uniE077</string>
+    <key>zwj.old</key>
+    <string>uniE077.old</string>
     <key>zwnj</key>
     <string>uniE079</string>
+    <key>zwnj.alt</key>
+    <string>uniE079.alt</string>
+    <key>zwnj.old</key>
+    <string>uniE079.old</string>
     <key>zwnj_android</key>
     <string>uniE076</string>
     <key>zwnj_ios</key>
     <string>uniE075</string>
     <key>zwsp</key>
     <string>uniE081</string>
+    <key>zwsp.old</key>
+    <string>uniE081.old</string>
   </dict>
 </dict>
 </plist>

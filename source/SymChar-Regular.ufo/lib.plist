@@ -43,7 +43,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
-  <string>SIL International: CharSymK Regular: 2023</string>
+  <string>SIL International: SymChar Regular: 2023</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -180,107 +180,6 @@
     <string>twitter</string>
     <string>twitter_1</string>
     <string>twitter_2</string>
-    <string>exclam</string>
-    <string>quotedbl</string>
-    <string>numbersign</string>
-    <string>dollar</string>
-    <string>percent</string>
-    <string>ampersand</string>
-    <string>quotesingle</string>
-    <string>parenleft</string>
-    <string>parenright</string>
-    <string>asterisk</string>
-    <string>plus</string>
-    <string>comma</string>
-    <string>hyphen</string>
-    <string>period</string>
-    <string>slash</string>
-    <string>zero</string>
-    <string>one</string>
-    <string>two</string>
-    <string>three</string>
-    <string>four</string>
-    <string>five</string>
-    <string>six</string>
-    <string>seven</string>
-    <string>eight</string>
-    <string>nine</string>
-    <string>colon</string>
-    <string>semicolon</string>
-    <string>less</string>
-    <string>equal</string>
-    <string>greater</string>
-    <string>question</string>
-    <string>at</string>
-    <string>A</string>
-    <string>B</string>
-    <string>C</string>
-    <string>D</string>
-    <string>E</string>
-    <string>F</string>
-    <string>G</string>
-    <string>H</string>
-    <string>I</string>
-    <string>J</string>
-    <string>K</string>
-    <string>L</string>
-    <string>M</string>
-    <string>N</string>
-    <string>O</string>
-    <string>P</string>
-    <string>Q</string>
-    <string>R</string>
-    <string>S</string>
-    <string>T</string>
-    <string>U</string>
-    <string>V</string>
-    <string>W</string>
-    <string>X</string>
-    <string>Y</string>
-    <string>Z</string>
-    <string>bracketleft</string>
-    <string>backslash</string>
-    <string>bracketright</string>
-    <string>asciicircum</string>
-    <string>underscore</string>
-    <string>grave</string>
-    <string>a</string>
-    <string>b</string>
-    <string>c</string>
-    <string>d</string>
-    <string>e</string>
-    <string>f</string>
-    <string>g</string>
-    <string>h</string>
-    <string>i</string>
-    <string>j</string>
-    <string>k</string>
-    <string>l</string>
-    <string>m</string>
-    <string>n</string>
-    <string>o</string>
-    <string>p</string>
-    <string>q</string>
-    <string>r</string>
-    <string>s</string>
-    <string>t</string>
-    <string>u</string>
-    <string>v</string>
-    <string>w</string>
-    <string>x</string>
-    <string>y</string>
-    <string>z</string>
-    <string>braceleft</string>
-    <string>bar</string>
-    <string>braceright</string>
-    <string>asciitilde</string>
-    <string>sterling</string>
-    <string>bullet</string>
-    <string>yen</string>
-    <string>questiondown</string>
-    <string>exclamdown</string>
-    <string>ellipsis</string>
-    <string>Euro</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>

@@ -1,7 +1,7 @@
-# CharSym [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_CharSym/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_CharSym&guest=1)
+# SymChar [![Build Status](https://build.palaso.org/app/rest/builds/buildType:Fonts_CharSym/statusIcon)](https://build.palaso.org/viewType.html?buildTypeId=Fonts_CharSym&guest=1)
 
 
-CharSym (Character Symbols) is an open font that can be used by applications to show symbols that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 format.
+SymChar (Symbols for Characters) is an open font that can be used by applications to show symbols that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 format.
 
 The build process requires [smith](https://github.com/silnrsi/smith) and project build parameters are set in the [wscript](wscript).
 
