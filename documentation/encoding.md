@@ -1,3 +1,7 @@
+# Encoded Symbols
+
+These are the encoded characters in the SymChar fonts. The symbols representing common "invisible" characters are shown in context. The Fonts column indicates which of the SymChar fonts contain that symbol - SymChar (S), SymCharK (K).
+
 Image | USV | Fonts | Description | Represents
 ----- | --- | ----- | ----------- | ----------
 ![](images/img_E080.png) | U+E080 | SK | SPACE | U+0020

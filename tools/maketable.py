@@ -9,6 +9,11 @@ import csv
 
 incsv = "../source/glyph_data.csv"
 outfile = "../documentation/encoding.md"
+header = """# Encoded Symbols
+
+These are the encoded characters in the SymChar fonts. The symbols representing common "invisible" characters are shown in context. The Fonts column indicates which of the SymChar fonts contain that symbol - SymChar (S), SymCharK (K).
+
+"""
 
 def main():
     tablehead = "Image | USV | Fonts | Description | Represents\n"
@@ -28,6 +33,7 @@ def main():
     table = tablehead + tablediv + tablerows
 
     output = open(outfile,'w')
+    output.write(header)
     output.write(table)
     output.close()
     
