@@ -6,7 +6,7 @@ link | U+E083 | SK | NARROW NO-BREAK SPACE | U+202F
 link | U+E084 | SK | EN QUAD | U+2000
 link | U+E085 | SK | EM QUAD | U+2001
 link | U+E086 | SK | EN SPACE | U+2002
-![U+E087](img_E087.png "U+E087") | U+E087 | SK | EM SPACE | U+2003
+![](images/img_E087.png) | U+E087 | SK | EM SPACE | U+2003
 link | U+E088 | SK | THREE-PER-EM SPACE | U+2004
 link | U+E089 | SK | FOUR-PER-EM SPACE | U+2005
 link | U+E08A | SK | SIX-PER-EM SPACE | U+2006
