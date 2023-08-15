@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="refdesc" format="2">
   <advance width="1075"/>
+  <unicode hex="E0B2"/>
   <outline>
     <contour>
       <point x="1040" y="850" type="line"/>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="refasc" format="2">
   <advance width="668"/>
+  <unicode hex="E0B1"/>
   <outline>
     <contour>
       <point x="797" y="1386" type="curve" smooth="yes"/>
