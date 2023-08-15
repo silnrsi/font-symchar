@@ -5,9 +5,6 @@ __copyright__ = 'Copyright (c) 2023 SIL International (https://www.sil.org)'
 __license__ = 'Released under the MIT License (https://opensource.org/licenses/MIT)'
 __author__ = 'Victor Gaultney'
 
-# Switch to FormattedString()
-# Test for max size emspace, refbox
-
 # Requires drawBot library
 from drawBot import *
 import csv
