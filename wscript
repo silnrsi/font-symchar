@@ -2,6 +2,8 @@
 # encoding: utf-8
 # this is a smith configuration file
 
+DOCDIR = ["documentation", "web"]
+
 APPNAME = 'SymChar'
 DESC_SHORT = "SymChar Fonts"
 
@@ -16,7 +18,7 @@ designspace('source/SymChar.designspace',
 )
 
 # build Keyman font
-keymanpackage = package(appname = "SymCharK")
+keymanpackage = package(appname = "SymCharK", docdir = DOCDIR)
 
 getufoinfo('source/SymCharK-Regular.ufo', keymanpackage)
 
