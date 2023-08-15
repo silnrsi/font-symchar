@@ -13,7 +13,7 @@ These fonts are intended mainly for use by SIL and partner applications. You are
 
 ## Encoding details
 
-(coming soon)
+For a full list of all the symbols available see [Encoded Symbols](documentation/encoding.md).
 
 ## Font development processes
 
