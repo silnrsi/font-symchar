@@ -22,7 +22,7 @@ def main():
                 fonts = ""
                 if row["in_g"] == "Y": fonts += "S"
                 if row["in_k"] == "Y": fonts += "K"
-                newrow = "link" + " | " + row["usv"] + " | " + fonts + " | " + row["doc_name"] + " | " + row["doc_uni"] + "\n"
+                newrow = "![](images/img_" + row["usv"][2:6] + ".png)" + " | " + row["usv"] + " | " + fonts + " | " + row["doc_name"] + " | " + row["doc_uni"] + "\n"
                 tablerows += newrow
 
     table = tablehead + tablediv + tablerows
