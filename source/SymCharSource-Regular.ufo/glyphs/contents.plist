@@ -236,6 +236,8 @@
   <string>hyphen.glif</string>
   <key>i</key>
   <string>i.glif</string>
+  <key>ideosp</key>
+  <string>ideosp.glif</string>
   <key>info</key>
   <string>info.glif</string>
   <key>info_1</key>
@@ -440,12 +442,20 @@
   <string>zero.glif</string>
   <key>zwj</key>
   <string>zwj.glif</string>
+  <key>zwj.alt2</key>
+  <string>zwj.alt2.glif</string>
   <key>zwj.old</key>
   <string>zwj.old.glif</string>
   <key>zwnj</key>
   <string>zwnj.glif</string>
   <key>zwnj.alt</key>
   <string>zwnj.alt.glif</string>
+  <key>zwnj.alt2</key>
+  <string>zwnj.alt2.glif</string>
+  <key>zwnj.alt3</key>
+  <string>zwnj.alt3.glif</string>
+  <key>zwnj.alt4</key>
+  <string>zwnj.alt4.glif</string>
   <key>zwnj.old</key>
   <string>zwnj.old.glif</string>
   <key>zwnj_android</key>

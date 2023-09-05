@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwnj.alt3" format="2">
+  <outline>
+    <contour>
+      <point x="-48" y="-470" type="line"/>
+      <point x="48" y="-470" type="line"/>
+      <point x="48" y="1976" type="line"/>
+      <point x="-48" y="1976" type="line"/>
+    </contour>
+    <contour>
+      <point x="-238" y="1408" type="line"/>
+      <point x="-238" y="1984" type="line"/>
+      <point x="-637" y="1696" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="1408" type="line"/>
+      <point x="637" y="1696" type="line"/>
+      <point x="238" y="1984" type="line"/>
+    </contour>
+  </outline>
+</glyph>

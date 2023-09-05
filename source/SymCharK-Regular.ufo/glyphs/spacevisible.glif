@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="spacevisible" format="2">
-  <advance width="640"/>
+  <advance width="720"/>
   <unicode hex="E080"/>
   <outline>
-    <component base="_part.dot"/>
+    <component base="_part.dot" xOffset="40"/>
   </outline>
 </glyph>

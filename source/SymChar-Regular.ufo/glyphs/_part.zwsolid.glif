@@ -2,10 +2,10 @@
 <glyph name="_part.zwsolid" format="2">
   <outline>
     <contour>
-      <point x="-48" y="-470" type="line"/>
-      <point x="48" y="-470" type="line"/>
-      <point x="48" y="1856" type="line"/>
-      <point x="-48" y="1856" type="line"/>
+      <point x="-56" y="-472" type="line"/>
+      <point x="56" y="-472" type="line"/>
+      <point x="56" y="1856" type="line"/>
+      <point x="-56" y="1856" type="line"/>
     </contour>
   </outline>
   <lib>

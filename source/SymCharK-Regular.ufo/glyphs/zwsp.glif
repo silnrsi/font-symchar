@@ -2,13 +2,13 @@
 <glyph name="zwsp" format="2">
   <unicode hex="E081"/>
   <outline>
-    <component base="_part.ringlarge" xOffset="-320" yOffset="913"/>
-    <component base="_part.ringlarge" xOffset="-320" yOffset="-1027"/>
+    <component base="_part.ringlarge" xOffset="-320" yOffset="997"/>
+    <component base="_part.ringlarge" xOffset="-320" yOffset="-997"/>
     <contour>
-      <point x="-48" y="-118" type="line"/>
-      <point x="48" y="-118" type="line"/>
-      <point x="48" y="1504" type="line"/>
-      <point x="-48" y="1504" type="line"/>
+      <point x="-48" y="-78" type="line"/>
+      <point x="48" y="-78" type="line"/>
+      <point x="48" y="1574" type="line"/>
+      <point x="-48" y="1574" type="line"/>
     </contour>
   </outline>
   <lib>

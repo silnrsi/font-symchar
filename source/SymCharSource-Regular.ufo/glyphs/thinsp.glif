@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thinsp" format="2">
-  <advance width="640"/>
+  <advance width="512"/>
   <unicode hex="E08D"/>
   <outline>
-    <component base="_part.arrowdown"/>
-    <component base="_part.dot"/>
+    <component base="_part.dot" xOffset="-64"/>
+    <contour>
+      <point x="528" y="1972" type="line"/>
+      <point x="406" y="1972" type="line"/>
+      <point x="256" y="1564" type="line"/>
+      <point x="106" y="1972" type="line"/>
+      <point x="-16" y="1972" type="line"/>
+      <point x="256" y="1288" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>

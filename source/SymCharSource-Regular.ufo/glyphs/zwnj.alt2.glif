@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwnj.alt2" format="2">
+  <outline>
+    <component base="_part.triangleright" xOffset="94"/>
+    <component base="_part.triangleleft" xOffset="-94"/>
+    <contour>
+      <point x="0" y="1600" type="line"/>
+      <point x="288" y="1600" type="line"/>
+      <point x="288" y="1696" type="line"/>
+      <point x="0" y="1696" type="line"/>
+    </contour>
+    <contour>
+      <point x="-48" y="-470" type="line"/>
+      <point x="48" y="-470" type="line"/>
+      <point x="48" y="1696" type="line"/>
+      <point x="-48" y="1696" type="line"/>
+    </contour>
+    <contour>
+      <point x="-288" y="1600" type="line"/>
+      <point x="0" y="1600" type="line"/>
+      <point x="0" y="1696" type="line"/>
+      <point x="-288" y="1696" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPP</string>
+    </dict>
+  </lib>
+</glyph>

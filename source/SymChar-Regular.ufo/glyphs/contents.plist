@@ -102,6 +102,8 @@
   <string>help_2.glif</string>
   <key>hide</key>
   <string>hide.glif</string>
+  <key>ideosp</key>
+  <string>ideosp.glif</string>
   <key>info</key>
   <string>info.glif</string>
   <key>info_1</key>

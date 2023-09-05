@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nbsp" format="2">
-  <advance width="640"/>
+  <advance width="720"/>
   <unicode hex="E082"/>
   <outline>
-    <component base="_part.arrowup" yOffset="-450"/>
-    <component base="_part.dotsmall"/>
+    <component base="_part.dotsmall" xOffset="40"/>
+    <contour>
+      <point x="-16" y="650" type="line"/>
+      <point x="109" y="650" type="line"/>
+      <point x="360" y="1208" type="line"/>
+      <point x="611" y="650" type="line"/>
+      <point x="736" y="650" type="line"/>
+      <point x="360" y="1454" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
 </glyph>

@@ -26,16 +26,15 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3211</string>
+  <string>3216</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/_part.ringlarge</string>
     <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/lrmark/refuc/rlmark/refuc</string>
-    <string>/refdesc</string>
-    <string>/zwnj</string>
     <string>/refuc/spacevisible/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
-    <string>/refuc/_part.dotsmall/nbsp/refuc/_part.dot/nnbsp/refuc</string>
     <string>/refuc/enquad/refuc/emquad/refuc/ensp/refuc/emsp/refuc/threepmsp/refuc/fourpmsp/refuc/sixpmsp/refuc/figuresp/refuc/punctsp/refuc/thinsp/refuc</string>
+    <string>/refuc/zwnj.alt3/refuc/zwnj.alt4/refuc/zwj.alt2/refuc</string>
+    <string>/_part.dot</string>
+    <string>/_part.arrowup</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -90,6 +89,7 @@
     <string>punctsp</string>
     <string>thinsp</string>
     <string>hairsp</string>
+    <string>ideosp</string>
     <string>zwsp</string>
     <string>zwnj</string>
     <string>zwnj_ios</string>
@@ -387,6 +387,8 @@
     <string>uniE052</string>
     <key>hide</key>
     <string>uniE00A</string>
+    <key>ideosp</key>
+    <string>uniE08F</string>
     <key>info</key>
     <string>uniE031</string>
     <key>info_1</key>
