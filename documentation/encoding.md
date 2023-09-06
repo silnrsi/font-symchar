@@ -18,6 +18,7 @@ Image | USV | Fonts | Description | Represents
 ![](images/img_E08C.png) | U+E08C | SK | PUNCTUATION SPACE | U+2008
 ![](images/img_E08D.png) | U+E08D | SK | THIN SPACE | U+2009
 ![](images/img_E08E.png) | U+E08E | SK | HAIR SPACE | U+200A
+![](images/img_E08F.png) | U+E08F | SK | IDEOGRAPHIC SPACE | U+3000
 ![](images/img_E081.png) | U+E081 | SK | ZERO WIDTH SPACE | U+200B
 ![](images/img_E079.png) | U+E079 | SK | ZERO WIDTH NON-JOINER | U+200C
 ![](images/img_E075.png) | U+E075 | SK | ZERO WIDTH NON-JOINER (iOS) | U+200C
