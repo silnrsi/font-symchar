@@ -134,6 +134,8 @@
   <string>nnbsp.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
+  <key>ofl</key>
+  <string>ofl.glif</string>
   <key>pin</key>
   <string>pin.glif</string>
   <key>pin_1</key>

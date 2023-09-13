@@ -26,7 +26,7 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3216</string>
+  <string>3217</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/lrmark/refuc/rlmark/refuc</string>
@@ -179,6 +179,7 @@
     <string>twitter</string>
     <string>twitter_1</string>
     <string>twitter_2</string>
+    <string>ofl</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -284,6 +285,8 @@
     <string>uniE006</string>
     <key>nnbsp</key>
     <string>uniE083</string>
+    <key>ofl</key>
+    <string>uniE0C1</string>
     <key>pin</key>
     <string>uniE024</string>
     <key>pin_1</key>
