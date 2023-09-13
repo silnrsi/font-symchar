@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>SymCharK</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/09/05 20:53:14</string>
+  <string>2023/09/13 15:02:40</string>
   <key>openTypeHheaAscender</key>
   <integer>1980</integer>
   <key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: SymCharK Regular: 2023</string>
   <key>openTypeNameVersion</key>
-  <string>Version 3.800</string>
+  <string>Version 4.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -155,9 +155,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
-  <integer>3</integer>
+  <integer>4</integer>
   <key>versionMinor</key>
-  <integer>800</integer>
+  <integer>0</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>
