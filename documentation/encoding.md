@@ -68,6 +68,7 @@ Image | USV | Fonts | Description | Represents
 ![](images/img_E021.png) | U+E021 | SK | back_1 | 
 ![](images/img_E022.png) | U+E022 | SK | back_2 | 
 ![](images/img_E072.png) | U+E072 | SK | back_rev | 
+![](images/img_E06A.png) | U+E06A | SK | back_rev_1 | 
 ![](images/img_E005.png) | U+E005 | SK | enter | 
 ![](images/img_E071.png) | U+E071 | SK | enter_rev | 
 ![](images/img_E006.png) | U+E006 | SK | next | 

@@ -12,6 +12,10 @@ that represent 'invisible' characters (such as NBSP). Font sources are in UFO3 f
 
 ChangeLog
 
+11 Mar 2024 (SIL font development team) SymChar version 4.100
+- Added
+    - U+E06A BACK REV 1
+
 18 Sep 2023 (SIL font development team) SymChar version 4.000
 - Added
     - U+E08F IDEOGRAPHIC SPACE (U+3000) added
