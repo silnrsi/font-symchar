@@ -26,7 +26,7 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3217</string>
+  <string>3243</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/lrmark/refuc/rlmark/refuc</string>
@@ -35,6 +35,7 @@
     <string>/refuc/zwnj.alt3/refuc/zwnj.alt4/refuc/zwj.alt2/refuc</string>
     <string>/_part.dot</string>
     <string>/_part.arrowup</string>
+    <string>/back/back_1/back_2/back_rev/back_rev_1</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -151,6 +152,7 @@
     <string>back_1</string>
     <string>back_2</string>
     <string>back_rev</string>
+    <string>back_rev_1</string>
     <string>enter</string>
     <string>enter_rev</string>
     <string>next</string>
@@ -298,6 +300,8 @@
     <string>uniE022</string>
     <key>back_rev</key>
     <string>uniE072</string>
+    <key>back_rev_1</key>
+    <string>uniE06A</string>
     <key>caps</key>
     <string>uniE003</string>
     <key>caps_1</key>

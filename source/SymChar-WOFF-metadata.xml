@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.SymChar.4.000" />
+  <uniqueid id="org.sil.fonts.SymChar.4.100" />
   <vendor name="SIL International" url="https://software.sil.org/wstech/" />
   <credits>
     <credit
@@ -18,9 +18,9 @@
       SymChar (Character Symbols) is an open font that can be used by applications to show symbols that represent 'invisible' characters.
     </text>
   </description>
-  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://openfontlicense.org" id="org.openfontlicense.1.1">
     <text lang="en">
-      Copyright (c) 2013-2023 SIL International (https://www.sil.org/) with Reserved Font Names "SymChar" and "SIL".
+      Copyright (c) 2013-2024 SIL International (https://www.sil.org/) with Reserved Font Names "SymChar" and "SIL".
       
       This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
       
@@ -67,7 +67,7 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2013-2023 SIL International
+      Copyright (c) 2013-2024 SIL International
     </text>
   </copyright>
   <trademark>
