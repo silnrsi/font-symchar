@@ -256,6 +256,8 @@
   <string>less.glif</string>
   <key>lowercase</key>
   <string>lowercase.glif</string>
+  <key>lrisolate</key>
+  <string>lrisolate.glif</string>
   <key>lrmark</key>
   <string>lrmark.glif</string>
   <key>m</key>
@@ -296,6 +298,8 @@
   <string>pin_1.glif</string>
   <key>plus</key>
   <string>plus.glif</string>
+  <key>popdirisolate</key>
+  <string>popdirisolate.glif</string>
   <key>previous</key>
   <string>previous.glif</string>
   <key>punctsp</key>
@@ -336,6 +340,8 @@
   <string>right_ctrl.glif</string>
   <key>right_ctrl_shift</key>
   <string>right_ctrl_shift.glif</string>
+  <key>rlisolate</key>
+  <string>rlisolate.glif</string>
   <key>rlmark</key>
   <string>rlmark.glif</string>
   <key>s</key>

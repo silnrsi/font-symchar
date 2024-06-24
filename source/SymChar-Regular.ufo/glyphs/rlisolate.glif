@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rlisolate" format="2">
+  <outline>
+    <component base="rlmark"/>
+    <contour>
+      <point x="-886" y="1204" type="line"/>
+      <point x="-774" y="1204" type="line"/>
+      <point x="-774" y="1980" type="line"/>
+      <point x="-886" y="1980" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

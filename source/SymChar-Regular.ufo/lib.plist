@@ -26,15 +26,13 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3243</string>
+  <string>3310</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/lrmark/refuc/rlmark/refuc</string>
+    <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/refuc/lrmark/refuc/rlmark/refuc/lrisolate/refuc/refuc/rlisolate/refuc/popdirisolate/refuc</string>
     <string>/refuc/spacevisible/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
     <string>/refuc/enquad/refuc/emquad/refuc/ensp/refuc/emsp/refuc/threepmsp/refuc/fourpmsp/refuc/sixpmsp/refuc/figuresp/refuc/punctsp/refuc/thinsp/refuc</string>
     <string>/refuc/zwnj.alt3/refuc/zwnj.alt4/refuc/zwj.alt2/refuc</string>
-    <string>/_part.dot</string>
-    <string>/_part.arrowup</string>
     <string>/back/back_1/back_2/back_rev/back_rev_1</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -100,6 +98,9 @@
     <string>cgj</string>
     <string>lrmark</string>
     <string>rlmark</string>
+    <string>lrisolate</string>
+    <string>rlisolate</string>
+    <string>popdirisolate</string>
     <string>softhyphen</string>
     <string>tab</string>
     <string>refasc</string>
@@ -281,6 +282,8 @@
     <string>uniE069</string>
     <key>lowercase</key>
     <string>uniE011</string>
+    <key>lrisolate</key>
+    <string>uniE092</string>
     <key>lrmark</key>
     <string>uniE090</string>
     <key>nbsp</key>
@@ -295,6 +298,8 @@
     <string>uniE024</string>
     <key>pin_1</key>
     <string>uniE026</string>
+    <key>popdirisolate</key>
+    <string>uniE094</string>
     <key>previous</key>
     <string>uniE007</string>
     <key>punctsp</key>
@@ -315,6 +320,8 @@
     <string>uniE059</string>
     <key>right_ctrl_shift</key>
     <string>uniE070</string>
+    <key>rlisolate</key>
+    <string>uniE093</string>
     <key>rlmark</key>
     <string>uniE091</string>
     <key>shift</key>
