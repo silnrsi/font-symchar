@@ -26,7 +26,7 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3310</string>
+  <string>3311</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/refuc/lrmark/refuc/rlmark/refuc/lrisolate/refuc/refuc/rlisolate/refuc/popdirisolate/refuc</string>

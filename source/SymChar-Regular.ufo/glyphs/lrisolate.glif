@@ -3,8 +3,8 @@
   <outline>
     <component base="lrmark"/>
     <contour>
-      <point x="774" y="1204" type="line"/>
-      <point x="886" y="1204" type="line"/>
+      <point x="774" y="1180" type="line"/>
+      <point x="886" y="1180" type="line"/>
       <point x="886" y="1980" type="line"/>
       <point x="774" y="1980" type="line"/>
     </contour>

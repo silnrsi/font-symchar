@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>SymCharSource</string>
   <key>openTypeHeadCreated</key>
-  <string>2024/06/24 09:21:39</string>
+  <string>2024/06/27 11:09:21</string>
   <key>openTypeHheaAscender</key>
   <integer>1980</integer>
   <key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: SymCharSource Regular: 2024</string>
   <key>openTypeNameVersion</key>
-  <string>Version 4.100</string>
+  <string>Version 4.200</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -157,7 +157,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>4</integer>
   <key>versionMinor</key>
-  <integer>100</integer>
+  <integer>200</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>

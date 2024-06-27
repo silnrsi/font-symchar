@@ -17,5 +17,5 @@ perl -i -pe 's/SymCharSource/SymCharK/g' source/SymCharK-Regular.ufo/fontinfo.pl
 perl -i -pe 's/SymCharSource/SymCharK/g' source/SymCharK-Regular.ufo/lib.plist
 
 echo "-----Updating WOFF metadata..."
-psfmakewoffmetadata -n SymChar -i "org.sil.fonts" -o source/SymChar-WOFF-metadata.xml source/SymChar-Regular.ufo
-psfmakewoffmetadata -n SymChark -i "org.sil.fonts" -o source/SymCharK-WOFF-metadata.xml source/SymCharK-Regular.ufo
+psfmakewoffmetadata -n symchar -i "org.sil.fonts" -o source/SymChar-WOFF-metadata.xml source/SymChar-Regular.ufo
+psfmakewoffmetadata -n symchark -i "org.sil.fonts" -o source/SymCharK-WOFF-metadata.xml source/SymCharK-Regular.ufo

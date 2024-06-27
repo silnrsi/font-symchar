@@ -8,16 +8,16 @@
       <point x="-56" y="1748" type="line"/>
     </contour>
     <contour>
-      <point x="286" y="1404" type="line"/>
-      <point x="470" y="1404" type="line"/>
-      <point x="-286" y="1980" type="line"/>
+      <point x="282" y="1440" type="line"/>
+      <point x="470" y="1440" type="line"/>
+      <point x="-282" y="1980" type="line"/>
       <point x="-470" y="1980" type="line"/>
     </contour>
     <contour>
-      <point x="-470" y="1404" type="line"/>
-      <point x="-286" y="1404" type="line"/>
+      <point x="-470" y="1440" type="line"/>
+      <point x="-282" y="1440" type="line"/>
       <point x="470" y="1980" type="line"/>
-      <point x="286" y="1980" type="line"/>
+      <point x="282" y="1980" type="line"/>
     </contour>
   </outline>
 </glyph>
