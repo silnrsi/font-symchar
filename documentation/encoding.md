@@ -28,6 +28,9 @@ Image | USV | Fonts | Description | Represents
 ![](images/img_E07A.png) | U+E07A | SK | COMBINING GRAPHEME JOINER | U+034F
 ![](images/img_E090.png) | U+E090 | SK | LEFT-TO-RIGHT MARK | U+200E
 ![](images/img_E091.png) | U+E091 | SK | RIGHT-TO-LEFT MARK | U+200F
+![](images/img_E092.png) | U+E092 | SK | LEFT-TO-RIGHT ISOLATE | U+2066
+![](images/img_E093.png) | U+E093 | SK | RIGHT-TO-LEFT ISOLATE | U+2067
+![](images/img_E094.png) | U+E094 | SK | POP DIRECTIONAL ISOLATE | U+2069
 ![](images/img_E0A1.png) | U+E0A1 | SK | SOFT HYPHEN | U+00AD
 ![](images/img_E0A2.png) | U+E0A2 | SK | HORIZONTAL TABULATION | U+0009
 ![](images/img_E0B1.png) | U+E0B1 | SK | size reference - ascender | 
