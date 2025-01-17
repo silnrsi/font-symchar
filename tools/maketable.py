@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 __doc__ = '''Create markdown encoding table for SymChar font docs '''
 __url__ = 'https://github.com/silnrsi/font-symchar'
-__copyright__ = 'Copyright (c) 2023 SIL International (https://www.sil.org)'
+__copyright__ = 'Copyright (c) 2023-2025 SIL Global (https://www.sil.org)'
 __license__ = 'Released under the MIT License (https://opensource.org/licenses/MIT)'
 __author__ = 'Victor Gaultney'
 

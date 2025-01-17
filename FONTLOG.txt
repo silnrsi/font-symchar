@@ -70,6 +70,6 @@ E: https://software.sil.org/about/contact/
 W: https://software.sil.org/wstech/
 D: Designers and developers
 
-SIL International (https://www.sil.org/) serves language communities worldwide,
+SIL Global (https://www.sil.org/) serves language communities worldwide,
 building their capacity for sustainable language development by means of
 research, translation, training and materials development.
