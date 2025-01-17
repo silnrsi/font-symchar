@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="next_rev" format="2">
+  <advance width="1945"/>
+  <unicode hex="E00C"/>
+  <outline>
+    <component base="previous"/>
+  </outline>
+</glyph>

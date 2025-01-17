@@ -62,6 +62,8 @@
   <string>currencies.glif</string>
   <key>digits</key>
   <string>digits.glif</string>
+  <key>done</key>
+  <string>done.glif</string>
   <key>download</key>
   <string>download.glif</string>
   <key>download_1</key>
@@ -94,6 +96,8 @@
   <string>gearwheel.glif</string>
   <key>globe</key>
   <string>globe.glif</string>
+  <key>go</key>
+  <string>go.glif</string>
   <key>hairsp</key>
   <string>hairsp.glif</string>
   <key>help</key>
@@ -134,6 +138,8 @@
   <string>nbsp.glif</string>
   <key>next</key>
   <string>next.glif</string>
+  <key>next_rev</key>
+  <string>next_rev.glif</string>
   <key>nnbsp</key>
   <string>nnbsp.glif</string>
   <key>nonmarkingreturn</key>
@@ -148,6 +154,8 @@
   <string>popdirisolate.glif</string>
   <key>previous</key>
   <string>previous.glif</string>
+  <key>previous_rev</key>
+  <string>previous_rev.glif</string>
   <key>punctsp</key>
   <string>punctsp.glif</string>
   <key>refasc</key>
@@ -178,6 +186,10 @@
   <string>rlisolate.glif</string>
   <key>rlmark</key>
   <string>rlmark.glif</string>
+  <key>search</key>
+  <string>search.glif</string>
+  <key>send</key>
+  <string>send.glif</string>
   <key>shift</key>
   <string>shift.glif</string>
   <key>shift_alt</key>

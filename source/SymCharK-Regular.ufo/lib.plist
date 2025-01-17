@@ -26,14 +26,14 @@
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict/>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3311</string>
+  <string>3337</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/refasc/refdesc/refuc/zwnj/refuc/zwj/refuc/wordjoiner/refuc/zwsp/refuc/refuc/lrmark/refuc/rlmark/refuc/lrisolate/refuc/refuc/rlisolate/refuc/popdirisolate/refuc</string>
     <string>/refuc/spacevisible/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
     <string>/refuc/enquad/refuc/emquad/refuc/ensp/refuc/emsp/refuc/threepmsp/refuc/fourpmsp/refuc/sixpmsp/refuc/figuresp/refuc/punctsp/refuc/thinsp/refuc</string>
     <string>/refuc/zwnj.alt3/refuc/zwnj.alt4/refuc/zwj.alt2/refuc</string>
-    <string>/back/back_1/back_2/back_rev/back_rev_1</string>
+    <string>/send/go/done/search</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -155,7 +155,13 @@
     <string>enter</string>
     <string>enter_rev</string>
     <string>next</string>
+    <string>next_rev</string>
     <string>previous</string>
+    <string>previous_rev</string>
+    <string>send</string>
+    <string>go</string>
+    <string>done</string>
+    <string>search</string>
     <string>hide</string>
     <string>download</string>
     <string>download_1</string>
@@ -317,6 +323,8 @@
     <string>uniE014</string>
     <key>digits</key>
     <string>uniE013</string>
+    <key>done</key>
+    <string>uniE017</string>
     <key>download</key>
     <string>uniE035</string>
     <key>download_1</key>
@@ -349,6 +357,8 @@
     <string>uniE030</string>
     <key>globe</key>
     <string>uniE00B</string>
+    <key>go</key>
+    <string>uniE00F</string>
     <key>hairsp</key>
     <string>uniE08E</string>
     <key>help</key>
@@ -389,6 +399,8 @@
     <string>uniE082</string>
     <key>next</key>
     <string>uniE006</string>
+    <key>next_rev</key>
+    <string>uniE00C</string>
     <key>nnbsp</key>
     <string>uniE083</string>
     <key>ofl</key>
@@ -401,6 +413,8 @@
     <string>uniE094</string>
     <key>previous</key>
     <string>uniE007</string>
+    <key>previous_rev</key>
+    <string>uniE00D</string>
     <key>punctsp</key>
     <string>uniE08C</string>
     <key>resize</key>
@@ -423,6 +437,10 @@
     <string>uniE093</string>
     <key>rlmark</key>
     <string>uniE091</string>
+    <key>search</key>
+    <string>uniE016</string>
+    <key>send</key>
+    <string>uniE00E</string>
     <key>shift</key>
     <string>uniE008</string>
     <key>shift_alt</key>
