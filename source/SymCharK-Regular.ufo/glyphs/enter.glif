@@ -30,10 +30,10 @@
       <point x="50" y="621"/>
       <point x="50" y="582" type="curve" smooth="yes"/>
       <point x="50" y="540"/>
-      <point x="64" y="505"/>
-      <point x="93" y="478" type="curve"/>
+      <point x="65" y="506"/>
+      <point x="93" y="478" type="curve" smooth="yes"/>
       <point x="633" y="-62" type="line" smooth="yes"/>
-      <point x="661" y="-91"/>
+      <point x="662" y="-91"/>
       <point x="697" y="-106"/>
       <point x="736" y="-106" type="curve" smooth="yes"/>
       <point x="818" y="-106"/>

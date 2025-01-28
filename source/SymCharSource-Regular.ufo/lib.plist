@@ -33,7 +33,7 @@
     <string>/refuc/spacevisible/refuc/nbsp/refuc/nnbsp/refuc/thinsp/refuc/hairsp/refuc/ensp/refuc/emsp/refuc/refasc/refdesc</string>
     <string>/refuc/enquad/refuc/emquad/refuc/ensp/refuc/emsp/refuc/threepmsp/refuc/fourpmsp/refuc/sixpmsp/refuc/figuresp/refuc/punctsp/refuc/thinsp/refuc</string>
     <string>/refuc/zwnj.alt3/refuc/zwnj.alt4/refuc/zwj.alt2/refuc</string>
-    <string>/send/go/done/search</string>
+    <string>/send/go/close_1/done.001/done/enter/search</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
